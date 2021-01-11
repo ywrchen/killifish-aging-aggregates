@@ -1,0 +1,62 @@
+Proteins File
+
+Checked - boolean checkbox
+Master - boolean for whether or not the protein assigned is the master protein of a protein group
+*Accession - gi# (in some cases, multiple numbers)
+*Description - Protein description from fasta
+Coverage - # coverage as a function of the gene product assigned in the fasta
+# Peptides - number of different peptides assigned
+*# PSMs - number of spectra assigned to peptides from this protein
+# Unique Peptides - number of peptides only assignable to this protein
+# Protein Groups - number of protein groups this protein belongs to
+# AAs - length of the sequence
+MW (kDa) - mass of protein
+calc. pI - Isoelectric point of the protein
+*Ratios - TMT label ratios relative to the control channel (in this case, relative to sample 1, replicate 1)
+*Ratio Standard Errors [%] - normalized errors of the assigned ratios
+Everything with an A2 relates to a Byonic output specific information. The most important one there is the Log Prob, which is the probability of correct assignemnt.
+
+PSMs File (where different than above)
+
+Confidence - color coded confidence based on Log Probability at a peptide level
+Identifying Node - What algorithm observed the peptide (should be Byonic)
+PSM Ambiguity - a boolean reporter of the difference between the assigned peptide and other possible assignments
+Annotated Sequence - Peptide sequence assigned; lower case indicates modification
+Modifications - Type and location of post translational modifications
+# Protein Groups - Number of groups to which the peptide could have been assigned
+# Proteins - number of proteins to which the peptide could have been assigned
+Master Protein Accession - gi# of the assigned master protein
+Protein Accessions - gi#(s) of the possible assigned proteins
+Protein Description - as above
+#Missed Cleavages - number of tryptic sites that were not cleaved
+Charge - z of the ion
+delScore, delCn, Rank, and Search Engine Rank - All refer to how much the algorithm prefers this peptide assignment over its nearest other possible assignments
+m/z  - Thomsons of the ion selected for fragmentation
+MH+ - mass of the protonated ion
+delM - deviation from the expected theoretical mass in ppm
+delm/z - deviation from the expected theoretical mass in thomsons
+Activation Type - type of MS/MS used to generate peptide fragmentation
+MS Order - the order at which MS/MS was assigned to a peptide (generally, this will be MS2, although MS3 is possible)
+Isolation Interference (%) - estimated of # of ion signal in the isolation window that is not directly assignable to the peptide of interest
+Ion Inject Time (ms) - how long ions were collected before meeting the AGC ion load limit
+RT (min) - retention time of the peptide when sampled
+First Scan - Scan number when sampled
+Spectrum File - source file from which the spectrum was obtained
+Ions Matched - no idea, I'll look into its
+Log Prob - Peptide level assignment probability
+Byonic Score - Peptide level assignment score
+delByonic Score - next best assignment score delta
+Del Mod Score - Next best assignment score allowing for mods
+PEP 2D - 2 dimensional posterior error probability of the peptide assignment (Protein aware)
+q-Value 2D - estimated FDR for the full list of PSMs thresholded at this PSM by PEP 2D
+FDR 2D - # of decoys/# of PSMs in ranked list
+Peptide Group FDR 2D - as above, but with groups
+PEP 1D, q-value 1D, FDR 1D, Peptide Group FDR 1D - protein oblivious versions of above
+Off by X - 1 dalton shifts of the precursor ion relative to the expected mass
+Position in Protein - first residue of the peptide as a function of the protein sequence
+Reporter Quan Result ID - unique identifier
+Quan Info  - whether or not the peptide was unique and or had useable quan values (TMT reporter ions)
+Quan Usage - was it used for quan values
+Ratios - as above, peptide level
+Ungrouped Ratios - Ratios as a function of the offline fractionation
+126, 127, 128, 129, 130, 131 - the raw reporter ion intensities

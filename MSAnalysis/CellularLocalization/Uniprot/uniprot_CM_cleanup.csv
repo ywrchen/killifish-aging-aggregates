@@ -1,0 +1,1077 @@
+name,Keep,Replace
+3M complex,FALSE,
+"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex",FALSE,
+6-phosphofructokinase complex,FALSE,
+90S preribosome,FALSE,preribosome
+A band,FALSE,
+acetylcholine-gated channel complex,FALSE,
+acrosomal membrane,FALSE,plasma membrane
+acrosomal vesicle,FALSE,plasma membrane
+actin cap,FALSE,cytoplasm
+actin cytoskeleton,FALSE,cytoplasm
+actin filament,FALSE,cytoplasm
+actin filament bundle,FALSE,cytoplasm
+activating signal cointegrator 1 complex,FALSE,cytoplasm
+activin receptor complex,FALSE,cytoplasm
+actomyosin,FALSE,cytoplasm
+actomyosin contractile ring,FALSE,cytoplasm
+"actomyosin, actin portion",FALSE,cytoplasm
+adherens junction,FALSE,cytoplasm
+adrenomedullin receptor complex,FALSE,cytoplasm
+aggresome,TRUE,
+AIM2 inflammasome complex,FALSE,
+alphav-beta3 integrin-IGF-1-IGF1R complex,FALSE,
+alveolar lamellar body,FALSE,lamellar body
+aminoacyl-tRNA synthetase multienzyme complex,FALSE,
+AMPA glutamate receptor complex,FALSE,
+anaphase-promoting complex,FALSE,
+anchored component of external side of plasma membrane,FALSE,plasma membrane
+anchored component of membrane,FALSE,plasma membrane
+anchored component of plasma membrane,FALSE,plasma membrane
+anchored component of the cytoplasmic side of the plasma membrane,FALSE,plasma membrane
+angiogenin-PRI complex,FALSE,
+annulate lamellae,FALSE,cytoplasm
+AP-1 adaptor complex,FALSE,vesicle
+AP-2 adaptor complex,FALSE,vesicle
+AP-3 adaptor complex,FALSE,vesicle
+AP-4 adaptor complex,FALSE,vesicle
+AP-type membrane coat adaptor complex,FALSE,vesicle
+apical cortex,FALSE,vesicle
+apical dendrite,FALSE,
+apical junction complex,FALSE,
+apical part of cell,FALSE,
+apical plasma membrane,FALSE,plasma membrane
+apicolateral plasma membrane,FALSE,plasma membrane
+apoptosome,FALSE,
+Arp2/3 protein complex,FALSE,
+aryl hydrocarbon receptor complex,FALSE,
+ASAP complex,FALSE,
+astral microtubule,FALSE,cytoplasm
+asymmetric synapse,FALSE,cytoplasm
+"asymmetric, glutamatergic, excitatory synapse",FALSE,cytoplasm
+Atg1/ULK1 kinase complex,FALSE,
+Atg12-Atg5-Atg16 complex,FALSE,
+ATP-binding cassette (ABC) transporter complex,FALSE,
+autophagosome,TRUE,
+autophagosome lumen,FALSE,autophagosome
+autophagosome membrane,FALSE,autophagosome
+axolemma,FALSE,
+axon,FALSE,
+axon terminus,FALSE,
+axonal growth cone,FALSE,
+axonemal dynein complex,FALSE,
+axonemal microtubule,FALSE,
+axonemal outer doublet,FALSE,
+axoneme,FALSE,
+azurophil granule,FALSE,
+azurophil granule membrane,FALSE,
+Barr body,TRUE,
+basal cortex,FALSE,
+basal part of cell,FALSE,
+basal plasma membrane,FALSE,plasma membrane
+basement membrane,FALSE,
+basolateral plasma membrane,FALSE,plasma membrane
+BAT3 complex,FALSE,
+BAX complex,FALSE,
+BBSome,FALSE,
+Bcl-2 family protein complex,FALSE,
+Bcl3-Bcl10 complex,FALSE,
+Bcl3/NF-kappaB2 complex,FALSE,
+BCOR complex,FALSE,
+beta-catenin destruction complex,FALSE,
+beta-catenin-TCF7L2 complex,FALSE,
+bicellular tight junction,FALSE,plasma membrane
+bleb,FALSE,
+BLOC-1 complex,FALSE,
+BLOC-3 complex,FALSE,
+blood microparticle,FALSE,
+BORC complex,FALSE,
+box C/D snoRNP complex,FALSE,
+BRCA1-A complex,FALSE,
+BRCA1-BARD1 complex,FALSE,
+BRCA2-MAGE-D1 complex,FALSE,
+BRISC complex,FALSE,
+brush border,FALSE,
+brush border membrane,FALSE,
+CAAX-protein geranylgeranyltransferase complex,FALSE,
+CAF-1 complex,FALSE,
+Cajal body,TRUE,
+CAK-ERCC2 complex,FALSE,
+calcineurin complex,FALSE,
+calcium channel complex,FALSE,
+calcium- and calmodulin-dependent protein kinase complex,FALSE,
+calyx of Held,FALSE,
+cAMP-dependent protein kinase complex,FALSE,
+catalytic complex,FALSE,
+catalytic step 2 spliceosome,FALSE,splicesome
+catenin complex,FALSE,
+cation channel complex,FALSE,
+caveola,FALSE,plasma membrane
+CBM complex,FALSE,
+CCAAT-binding factor complex,FALSE,
+CCR4-NOT complex,FALSE,
+CD95 death-inducing signaling complex,FALSE,
+Cdc73/Paf1 complex,FALSE,
+cell,FALSE,
+cell body,FALSE,
+cell cortex,FALSE,plasma membrane
+cell cortex region,FALSE,plasma membrane
+cell junction,FALSE,plasma membrane
+cell leading edge,FALSE,plasma membrane
+cell periphery,FALSE,plasma membrane
+cell projection,FALSE,plasma membrane
+cell projection membrane,FALSE,plasma membrane
+cell surface,FALSE,plasma membrane
+cell-cell adherens junction,FALSE,plasma membrane
+cell-cell contact zone,FALSE,plasma membrane
+cell-cell junction,FALSE,plasma membrane
+cell-substrate adherens junction,FALSE,plasma membrane
+cell-substrate junction,FALSE,plasma membrane
+cellular_component,FALSE,
+cellularization cleavage furrow,FALSE,plasma membrane
+central element,FALSE,
+centralspindlin complex,FALSE,
+centriolar satellite,FALSE,cytoplasm
+centriole,FALSE,centrosome
+centrosomal corona,FALSE,centrosome
+centrosome,TRUE,
+cerebellar mossy fiber,FALSE,
+CGRP receptor complex,FALSE,
+chaperone complex,FALSE,
+chaperonin-containing T-complex,FALSE,
+chloride channel complex,FALSE,
+CHRAC,,
+chromaffin granule,FALSE,
+chromaffin granule lumen,FALSE,
+chromaffin granule membrane,FALSE,
+chromatin,FALSE,nucleus
+chromatin silencing complex,FALSE,
+chromatoid body,FALSE,cytoplasm
+chromocenter,,
+chromosome,FALSE,nucleus
+chromosome passenger complex,FALSE,nucleus
+"chromosome, centromeric core domain",FALSE,nucleus
+"chromosome, centromeric region",FALSE,nucleus
+"chromosome, telomeric region",FALSE,nucleus
+chylomicron,FALSE,
+CIA complex,FALSE,
+ciliary basal body,FALSE,cytoplasm
+ciliary base,FALSE,
+ciliary membrane,FALSE,
+ciliary pocket membrane,FALSE,
+ciliary rootlet,FALSE,
+ciliary tip,FALSE,
+ciliary transition zone,FALSE,
+cilium,FALSE,
+cis-Golgi network,FALSE,Golgi
+cis-Golgi network membrane,FALSE,Golgi
+clathrin coat,FALSE,cytoplasm
+clathrin coat of trans-Golgi network vesicle,FALSE,cytoplasm
+clathrin complex,FALSE,
+clathrin-coated endocytic vesicle,FALSE,cytoplasm
+clathrin-coated endocytic vesicle membrane,FALSE,cytoplasm
+clathrin-coated pit,FALSE,cytoplasm
+clathrin-coated vesicle,FALSE,cytoplasm
+clathrin-coated vesicle membrane,FALSE,cytoplasm
+cleavage body,FALSE,cytoplasm
+cleavage furrow,FALSE,plasma membrane
+climbing fiber,FALSE,
+coated vesicle membrane,FALSE,vesicle
+cohesin complex,FALSE,
+collagen trimer,FALSE,
+collagen type I trimer,FALSE,
+collagen type IV trimer,FALSE,
+collagen type IX trimer,FALSE,
+collagen type V trimer,FALSE,
+collagen type VI trimer,FALSE,
+collagen type XI trimer,FALSE,
+collagen type XII trimer,FALSE,
+collagen type XIII trimer,FALSE,
+collagen type XIV trimer,FALSE,
+collagen type XV trimer,FALSE,
+collagen-containing extracellular matrix,FALSE,extracellular region
+compact myelin,FALSE,
+condensed chromosome,FALSE,nucleus
+condensed chromosome kinetochore,FALSE,nucleus
+condensed chromosome outer kinetochore,FALSE,nucleus
+"condensed chromosome, centromeric region",FALSE,nucleus
+condensed nuclear chromosome,FALSE,nucleus
+"condensed nuclear chromosome, centromeric region",FALSE,nucleus
+condensin complex,FALSE,
+condensin core heterodimer,,
+connexin complex,FALSE,
+contractile fiber,FALSE,
+contractile ring,FALSE,
+COP9 signalosome,FALSE,cytoplasm
+COPI vesicle coat,FALSE,vesicle
+COPI-coated vesicle,FALSE,vesicle
+COPI-coated vesicle membrane,FALSE,vesicle
+COPII vesicle coat,FALSE,vesicle
+COPII-coated ER to Golgi transport vesicle,FALSE,vesicle
+core TFIIH complex portion of holo TFIIH complex,FALSE,
+core-binding factor complex,FALSE,
+cornified envelope,FALSE,
+cortical actin cytoskeleton,FALSE,cytoplasm
+cortical cytoskeleton,FALSE,cytoplasm
+cortical endoplasmic reticulum,FALSE,endoplasmic reticulum
+cortical granule,FALSE,cytoplasm
+cortical microtubule,FALSE,cytoplasm
+cortical microtubule cytoskeleton,FALSE,cytoplasm
+costamere,FALSE,cytoplasm
+CRD-mediated mRNA stability complex,FALSE,
+CST complex,FALSE,
+Ctf18 RFC-like complex,FALSE,
+Cul2-RING ubiquitin ligase complex,FALSE,
+Cul3-RING ubiquitin ligase complex,FALSE,cytoplasm
+Cul4-RING E3 ubiquitin ligase complex,FALSE,cytoplasm
+Cul4A-RING E3 ubiquitin ligase complex,FALSE,cytoplasm
+Cul4B-RING E3 ubiquitin ligase complex,FALSE,
+Cul5-RING ubiquitin ligase complex,FALSE,
+Cul7-RING ubiquitin ligase complex,FALSE,
+cullin-RING ubiquitin ligase complex,FALSE,
+cuticular plate,FALSE,
+cyclin A2-CDK2 complex,FALSE,
+cyclin E1-CDK2 complex,FALSE,
+cyclin E2-CDK2 complex,FALSE,
+cyclin-dependent protein kinase activating kinase holoenzyme complex,FALSE,
+cyclin-dependent protein kinase holoenzyme complex,FALSE,
+cyclin/CDK positive transcription elongation factor complex,FALSE,
+cytolytic granule,FALSE,
+cytoophidium,FALSE,
+cytoplasm,TRUE,
+cytoplasmic cyclin-dependent protein kinase holoenzyme complex,FALSE,cytoplasm
+cytoplasmic dynein complex,FALSE,cytoplasm
+cytoplasmic exosome (RNase complex),FALSE,
+cytoplasmic microtubule,FALSE,cytoplasm
+cytoplasmic microtubule bundle,FALSE,cytoplasm
+cytoplasmic ribonucleoprotein granule,FALSE,cytoplasm
+cytoplasmic side of apical plasma membrane,FALSE,cytoplasm
+cytoplasmic side of early endosome membrane,FALSE,cytoplasm
+cytoplasmic side of late endosome membrane,FALSE,cytoplasm
+cytoplasmic side of lysosomal membrane,FALSE,cytoplasm
+cytoplasmic side of mitochondrial outer membrane,FALSE,cytoplasm
+cytoplasmic side of plasma membrane,FALSE,cytoplasm
+cytoplasmic side of rough endoplasmic reticulum membrane,FALSE,cytoplasm
+cytoplasmic stress granule,FALSE,cytoplasm
+cytoplasmic vesicle,FALSE,cytoplasm
+cytoplasmic vesicle lumen,FALSE,cytoplasm
+cytoplasmic vesicle membrane,FALSE,
+cytoskeleton,FALSE,
+cytosol,TRUE,
+cytosolic large ribosomal subunit,FALSE,ribosome
+cytosolic proteasome complex,FALSE,proteasome
+cytosolic ribosome,TRUE,
+cytosolic small ribosomal subunit,FALSE,ribosome
+DBIRD complex,FALSE,
+death-inducing signaling complex,FALSE,
+dehydrodolichyl diphosphate synthase complex,FALSE,
+delta DNA polymerase complex,FALSE,
+dendrite,FALSE,
+dendrite cytoplasm,FALSE,
+dendrite membrane,FALSE,
+dendritic microtubule,FALSE,
+dendritic shaft,FALSE,
+dendritic spine,FALSE,
+dendritic spine head,FALSE,
+dendritic spine membrane,FALSE,
+dendritic tree,FALSE,
+dense core granule,FALSE,
+Derlin-1 retrotranslocation complex,FALSE,
+desmosome,FALSE,cytoplasm
+deuterosome,FALSE,
+DNA ligase IV complex,FALSE,
+DNA polymerase III complex,FALSE,
+DNA replication factor A complex,FALSE,
+DNA replication factor C complex,FALSE,
+DNA topoisomerase complex (ATP-hydrolyzing),FALSE,
+DNA-dependent protein kinase complex,FALSE,
+DNA-dependent protein kinase-DNA ligase 4 complex,FALSE,
+dolichol-phosphate-mannose synthase complex,FALSE,
+DSIF complex,FALSE,
+Dsl1/NZR complex,FALSE,
+DUBm complex,FALSE,
+dynactin complex,FALSE,
+dynein complex,FALSE,
+dystrophin-associated glycoprotein complex,FALSE,
+early endosome,FALSE,endosome
+early endosome lumen,FALSE,endosome
+early endosome membrane,FALSE,endosome
+early phagosome,FALSE,phagasome
+early phagosome membrane,FALSE,phagasome
+EARP complex,FALSE,
+ectoplasm,FALSE,cytoplasm
+EKC/KEOPS complex,FALSE,
+elastic fiber,FALSE,
+Elg1 RFC-like complex,FALSE,
+Elongator holoenzyme complex,FALSE,
+endocytic vesicle,FALSE,endosome
+endolysosome,FALSE,endosome
+endomembrane system,FALSE,endosome
+endopeptidase Clp complex,FALSE,endosome
+endoplasmic reticulum,TRUE,
+endoplasmic reticulum chaperone complex,FALSE,endoplasmic reticulum
+endoplasmic reticulum exit site,FALSE,endoplasmic reticulum
+endoplasmic reticulum lumen,FALSE,endoplasmic reticulum
+endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+endoplasmic reticulum quality control compartment,FALSE,endoplasmic reticulum
+endoplasmic reticulum Sec complex,FALSE,endoplasmic reticulum
+endoplasmic reticulum tubular network,FALSE,endoplasmic reticulum
+endoplasmic reticulum tubular network membrane,FALSE,endoplasmic reticulum
+endoplasmic reticulum-endosome membrane contact site,FALSE,cytoplasm
+endoplasmic reticulum-Golgi intermediate compartment,TRUE,
+endoplasmic reticulum-Golgi intermediate compartment membrane,FALSE,endoplasmic reticulum-Golgi intermediate compartment
+endoplasmic reticulum-plasma membrane contact site,FALSE,endoplasmic reticulum
+endosome,TRUE,
+endosome lumen,FALSE,endosome
+endosome membrane,FALSE,endosome
+endosome to plasma membrane transport vesicle,FALSE,endosome
+epididymosome,,
+epsilon DNA polymerase complex,FALSE,
+ER membrane protein complex,FALSE,
+ER to Golgi transport vesicle membrane,FALSE,cytoplasm
+ERCC4-ERCC1 complex,FALSE,
+ESC/E(Z) complex,FALSE,
+ESCRT I complex,FALSE,
+ESCRT II complex,FALSE,
+ESCRT III complex,FALSE,
+ESCRT-0 complex,FALSE,
+euchromatin,FALSE,nucleus
+eukaryotic 43S preinitiation complex,FALSE,
+eukaryotic 48S preinitiation complex,FALSE,
+eukaryotic translation elongation factor 1 complex,FALSE,
+eukaryotic translation initiation factor 2 complex,FALSE,
+eukaryotic translation initiation factor 2B complex,FALSE,
+eukaryotic translation initiation factor 3 complex,FALSE,
+"eukaryotic translation initiation factor 3 complex, eIF3e",FALSE,
+"eukaryotic translation initiation factor 3 complex, eIF3m",FALSE,
+eukaryotic translation initiation factor 4F complex,FALSE,
+excitatory synapse,FALSE,
+exocyst,FALSE,
+exocytic vesicle,FALSE,cytoplasm
+exon-exon junction complex,FALSE,
+exosome (RNase complex),FALSE,
+external side of plasma membrane,FALSE,plasma membrane
+extracellular exosome,FALSE,extracellular region
+extracellular matrix,FALSE,extracellular region
+extracellular region,TRUE,
+extracellular space,FALSE,extracellular region
+extracellular vesicle,FALSE,extracellular region
+extrinsic component of autophagosome membrane,FALSE,autophagosome
+extrinsic component of cytoplasmic side of plasma membrane,FALSE,cytoplasm
+extrinsic component of endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+extrinsic component of endosome membrane,FALSE,endosome
+extrinsic component of external side of plasma membrane,FALSE,plasma membrane
+extrinsic component of Golgi membrane,FALSE,Golgi
+extrinsic component of membrane,FALSE,
+extrinsic component of mitochondrial inner membrane,FALSE,mitochondrion
+extrinsic component of omegasome membrane,FALSE,
+extrinsic component of organelle membrane,FALSE,
+extrinsic component of phagophore assembly site membrane,FALSE,
+extrinsic component of plasma membrane,FALSE,plasma membrane
+F-actin capping protein complex,FALSE,
+FACT complex,FALSE,
+FANCM-MHF complex,FALSE,
+Fanconi anaemia nuclear complex,FALSE,
+FAR/SIN/STRIPAK complex,FALSE,
+FHF complex,FALSE,
+fibrillar center,FALSE,
+fibrillar collagen trimer,FALSE,
+fibrinogen complex,FALSE,
+filamentous actin,FALSE,
+filopodium,FALSE,
+filopodium membrane,FALSE,
+filopodium tip,FALSE,
+Flemming body,FALSE,cytoplasm
+flotillin complex,FALSE,
+focal adhesion,FALSE,plasma membrane
+follicle-stimulating hormone complex,FALSE,
+G protein-coupled receptor dimeric complex,FALSE,
+G protein-coupled receptor heterodimeric complex,FALSE,
+GABA-A receptor complex,FALSE,
+GAIT complex,FALSE,
+gamma DNA polymerase complex,FALSE,
+gamma-secretase complex,FALSE,
+gamma-tubulin complex,FALSE,
+gamma-tubulin ring complex,FALSE,
+gamma-tubulin small complex,FALSE,
+gap junction,FALSE,
+GARP complex,FALSE,
+GATOR1 complex,FALSE,
+GATOR2 complex,FALSE,
+Gemini of coiled bodies,FALSE,
+glomerular endothelium fenestra,FALSE,
+glucosidase II complex,FALSE,
+glutamate-cysteine ligase complex,FALSE,
+glutamyl-tRNA(Gln) amidotransferase complex,FALSE,
+glycine-gated chloride channel complex,FALSE,
+Golgi apparatus,FALSE,Golgi
+Golgi cis cisterna,FALSE,Golgi
+Golgi cis cisterna membrane,FALSE,Golgi
+Golgi cisterna,FALSE,Golgi
+Golgi cisterna membrane,FALSE,Golgi
+Golgi lumen,FALSE,Golgi
+Golgi medial cisterna,FALSE,Golgi
+Golgi membrane,FALSE,Golgi
+Golgi stack,FALSE,Golgi
+Golgi trans cisterna,FALSE,Golgi
+Golgi transport complex,FALSE,Golgi
+Golgi-associated vesicle,FALSE,cytoplasm
+Golgi-associated vesicle membrane,FALSE,cytoplasm
+GPI-anchor transamidase complex,FALSE,
+granular component,FALSE,
+granulocyte macrophage colony-stimulating factor receptor complex,FALSE,
+growing cell tip,FALSE,
+growth cone,FALSE,
+growth cone membrane,FALSE,
+GTPase activator complex,FALSE,
+guanyl-nucleotide exchange factor complex,FALSE,
+"guanylate cyclase complex, soluble",FALSE,
+HAUS complex,FALSE,
+HCN channel complex,FALSE,
+hemidesmosome,,
+heterochromatin,FALSE,nucleus
+heterotrimeric G-protein complex,FALSE,
+high-density lipoprotein particle,FALSE,
+histone acetyltransferase complex,FALSE,
+histone deacetylase complex,FALSE,
+histone locus body,FALSE,nucleus
+histone methyltransferase complex,FALSE,
+histone pre-mRNA 3'end processing complex,FALSE,
+Holliday junction resolvase complex,FALSE,
+HOPS complex,FALSE,
+host cell mitochondrial intermembrane space,FALSE,mitochondrion
+host cell perinuclear region of cytoplasm,FALSE,PML body
+host cell PML body,FALSE,nucleus
+host cell presynaptic membrane,FALSE,plasma membrane
+Hrd1p ubiquitin ligase complex,FALSE,
+Hrd1p ubiquitin ligase ERAD-L complex,FALSE,
+HULC complex,FALSE,
+hyaluranon cable,FALSE,
+I band,FALSE,
+IkappaB kinase complex,FALSE,
+immunological synapse,FALSE,
+inclusion body,FALSE,cytoplasm
+inhibitory synapse,FALSE,
+Ino80 complex,FALSE,
+insulin-responsive compartment,FALSE,
+integral component of cytoplasmic side of endoplasmic reticulum membrane,FALSE,cytoplasm
+integral component of endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+integral component of Golgi membrane,FALSE,Golgi
+integral component of lumenal side of endoplasmic reticulum membrane,FALSE,cytoplasm
+integral component of lysosomal membrane,FALSE,lysosome
+integral component of membrane,FALSE,
+integral component of mitochondrial inner membrane,FALSE,mitochondrion
+integral component of mitochondrial membrane,FALSE,mitochondrion
+integral component of mitochondrial outer membrane,FALSE,mitochondrion
+integral component of nuclear inner membrane,FALSE,nucleus
+integral component of omegasome membrane,FALSE,
+integral component of organelle membrane,FALSE,
+integral component of peroxisomal membrane,FALSE,peroxisome
+integral component of plasma membrane,FALSE,plasma membrane
+integral component of synaptic vesicle membrane,FALSE,cytoplasm
+integrator complex,FALSE,
+integrin alpha1-beta1 complex,FALSE,
+integrin alpha10-beta1 complex,FALSE,
+integrin alpha11-beta1 complex,FALSE,
+integrin alpha2-beta1 complex,FALSE,
+integrin alpha3-beta1 complex,FALSE,
+integrin alpha4-beta7 complex,FALSE,
+integrin alphaL-beta2 complex,FALSE,
+integrin alphav-beta3 complex,FALSE,
+integrin alphav-beta5 complex,FALSE,
+integrin alphav-beta6 complex,FALSE,
+integrin alphav-beta8 complex,FALSE,
+integrin complex,FALSE,
+intercalated disc,FALSE,
+intercellular bridge,FALSE,cytoplasm
+intercellular canaliculus,FALSE,cytoplasm
+interchromatin granule,FALSE,nucleus
+interleukin-1 receptor complex,FALSE,
+interleukin-12 complex,FALSE,
+interleukin-18 receptor complex,FALSE,
+interleukin-2 receptor complex,FALSE,
+interleukin-28 receptor complex,FALSE,
+intermediate filament,FALSE,
+intermediate filament cytoskeleton,FALSE,
+intermediate-density lipoprotein particle,FALSE,
+internode region of axon,FALSE,
+intracellular membrane-bounded organelle,FALSE,cytoplasm
+intracellular organelle,FALSE,cytoplasm
+intracellular vesicle,FALSE,cytoplasm
+intraciliary transport particle A,FALSE,cytoplasm
+intraciliary transport particle B,FALSE,cytoplasm
+intrinsic component of endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+intrinsic component of Golgi membrane,FALSE,Golgi
+intrinsic component of membrane,FALSE,
+intrinsic component of mitochondrial inner membrane,FALSE,mitochondrion
+intrinsic component of mitochondrial outer membrane,FALSE,mitochondrion
+intrinsic component of organelle membrane,FALSE,
+intrinsic component of peroxisomal membrane,FALSE,peroxisome
+intrinsic component of plasma membrane,FALSE,plasma membrane
+intrinsic component of the cytoplasmic side of the plasma membrane,FALSE,cytoplasm
+invadopodium,FALSE,
+invadopodium membrane,FALSE,
+inward rectifier potassium channel complex,FALSE,
+ion channel complex,FALSE,
+ionotropic glutamate receptor complex,FALSE,
+IPAF inflammasome complex,FALSE,
+junctional membrane complex,FALSE,
+juxtaparanode region of axon,FALSE,
+katanin complex,FALSE,
+keratin filament,FALSE,
+KICSTOR complex,FALSE,
+kinesin II complex,FALSE,
+kinetochore,FALSE,cytoplasm
+kinetochore microtubule,FALSE,cytoplasm
+kinociliary basal body,FALSE,cytoplasm
+kinocilium,FALSE,
+Ku70:Ku80 complex,FALSE,
+L-type voltage-gated calcium channel complex,FALSE,
+lamellipodium,FALSE,cytoplasm
+lamellipodium membrane,FALSE,plasma membrane
+laminin-1 complex,FALSE,
+laminin-10 complex,FALSE,
+laminin-3 complex,FALSE,
+late endosome,FALSE,endosome
+late endosome membrane,FALSE,endosome
+lateral cell cortex,FALSE,plasma membrane
+lateral element,FALSE,
+lateral plasma membrane,FALSE,plasma membrane
+leading edge membrane,FALSE,plasma membrane
+leading edge of lamellipodium,,
+Lewy body,TRUE,
+lipid droplet,FALSE,cytoplasm
+lipopolysaccharide receptor complex,FALSE,
+low-density lipoprotein particle,FALSE,cytoplasm
+Lsm2-8 complex,FALSE,
+LUBAC complex,FALSE,
+lysosomal lumen,FALSE,lysosome
+lysosomal membrane,FALSE,lysosome
+lysosome,TRUE,
+M band,FALSE,
+macropinocytic cup,FALSE,
+macropinosome,FALSE,cytoplasm
+main axon,FALSE,
+male pronucleus,FALSE,
+MAML1-RBP-Jkappa- ICN1 complex,FALSE,
+manchette,FALSE,
+matrix side of mitochondrial inner membrane,FALSE,mitochondrion
+MCM complex,FALSE,
+MCM8-MCM9 complex,FALSE,
+mediator complex,FALSE,
+meiotic cohesin complex,FALSE,
+meiotic nuclear membrane microtubule tethering complex,FALSE,
+meiotic spindle,FALSE,cytoplasm
+melanosome,FALSE,cytoplasm
+melanosome membrane,FALSE,cytoplasm
+membrane,FALSE,
+membrane attack complex,FALSE,
+membrane coat,FALSE,
+membrane raft,FALSE,
+messenger ribonucleoprotein complex,FALSE,
+methionine adenosyltransferase complex,FALSE,
+methylosome,FALSE,
+methyltransferase complex,FALSE,
+MHC class I peptide loading complex,FALSE,
+MHC class I protein complex,FALSE,
+MHC class Ib protein complex,FALSE,
+MHC class II protein complex,FALSE,
+MICOS complex,FALSE,
+micro-ribonucleoprotein complex,FALSE,
+microfibril,FALSE,cytoplasm
+microspike,FALSE,
+microtubule,FALSE,cytoplasm
+microtubule associated complex,FALSE,cytoplasm
+microtubule bundle,FALSE,cytoplasm
+microtubule cytoskeleton,FALSE,cytoplasm
+microtubule end,FALSE,cytoplasm
+microtubule minus-end,FALSE,cytoplasm
+microtubule organizing center,FALSE,cytoplasm
+microtubule plus-end,FALSE,cytoplasm
+microvillus,FALSE,plasma membrane
+microvillus membrane,FALSE,plasma membrane
+midbody,FALSE,cytoplasm
+MIS12/MIND type complex,FALSE,
+mitochondria-associated endoplasmic reticulum membrane,FALSE,mitochondrion
+mitochondrial crista,FALSE,mitochondrion
+mitochondrial degradosome,FALSE,mitochondrion
+mitochondrial endopeptidase Clp complex,FALSE,mitochondrion
+mitochondrial inner membrane,FALSE,mitochondrion
+mitochondrial inner membrane peptidase complex,FALSE,mitochondrion
+mitochondrial intermembrane space,FALSE,mitochondrion
+mitochondrial large ribosomal subunit,FALSE,mitochondrion
+mitochondrial matrix,FALSE,mitochondrion
+mitochondrial membrane,FALSE,mitochondrion
+mitochondrial nucleoid,FALSE,mitochondrion
+mitochondrial outer membrane,FALSE,mitochondrion
+mitochondrial outer membrane translocase complex,FALSE,mitochondrion
+mitochondrial permeability transition pore complex,FALSE,mitochondrion
+mitochondrial proton-transporting ATP synthase complex,FALSE,mitochondrion
+"mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)",FALSE,mitochondrion
+"mitochondrial proton-transporting ATP synthase, catalytic core",FALSE,mitochondrion
+mitochondrial pyruvate dehydrogenase complex,FALSE,mitochondrion
+mitochondrial respirasome,FALSE,mitochondrion
+mitochondrial respiratory chain complex I,FALSE,mitochondrion
+"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",FALSE,mitochondrion
+mitochondrial respiratory chain complex III,FALSE,mitochondrion
+mitochondrial respiratory chain complex IV,FALSE,mitochondrion
+mitochondrial ribonuclease P complex,FALSE,mitochondrion
+mitochondrial ribosome,TRUE,
+mitochondrial small ribosomal subunit,FALSE,mitochondrial ribosome
+mitochondrion,TRUE,
+mitotic cohesin complex,FALSE,
+mitotic spindle,FALSE,cytoplasm
+mitotic spindle astral microtubule,FALSE,cytoplasm
+mitotic spindle microtubule,FALSE,cytoplasm
+mitotic spindle midzone,FALSE,cytoplasm
+mitotic spindle pole,FALSE,cytoplasm
+MKS complex,FALSE,
+MLL1 complex,FALSE,
+MLL3/4 complex,FALSE,
+MMXD complex,FALSE,
+molybdopterin synthase complex,FALSE,
+Mon1-Ccz1 complex,FALSE,
+motile cilium,FALSE,
+MOZ/MORF histone acetyltransferase complex,FALSE,
+MPP7-DLG1-LIN7 complex,FALSE,
+Mre11 complex,FALSE,
+mRNA cap binding complex,FALSE,
+mRNA cap methyltransferase complex,FALSE,
+mRNA cleavage and polyadenylation specificity factor complex,FALSE,
+mRNA cleavage factor complex,FALSE,
+MSL complex,FALSE,
+mucin granule,FALSE,
+multivesicular body,FALSE,cytoplasm
+multivesicular body membrane,FALSE,cytoplasm
+"multivesicular body, internal vesicle",FALSE,cytoplasm
+"multivesicular body, internal vesicle lumen",FALSE,cytoplasm
+muscle myosin complex,FALSE,
+muscle thin filament tropomyosin,FALSE,
+MutSalpha complex,FALSE,
+myelin sheath,FALSE,
+myofibril,FALSE,
+myosin complex,FALSE,
+myosin filament,FALSE,
+myosin II complex,FALSE,
+myosin II filament,FALSE,
+myosin V complex,FALSE,
+NADPH oxidase complex,FALSE,
+NatA complex,FALSE,
+NatC complex,FALSE,
+nBAF complex,FALSE,
+Ndc80 complex,FALSE,
+NELF complex,FALSE,
+Nem1-Spo7 phosphatase complex,FALSE,
+neurofilament,FALSE,
+neurofilament cytoskeleton,FALSE,
+neuromuscular junction,FALSE,
+neuron projection,FALSE,
+neuron projection membrane,FALSE,
+neuron projection terminus,FALSE,
+neuron spine,FALSE,
+neuronal cell body,FALSE,
+neuronal cell body membrane,FALSE,
+NLRP1 inflammasome complex,FALSE,
+NLRP3 inflammasome complex,FALSE,
+NLS-dependent protein nuclear import complex,FALSE,
+NMDA selective glutamate receptor complex,FALSE,
+Noc4p-Nop14p complex,FALSE,
+node of Ranvier,FALSE,
+non-motile cilium,FALSE,
+nonhomologous end joining complex,FALSE,
+npBAF complex,FALSE,
+NuA4 histone acetyltransferase complex,FALSE,
+nuclear body,FALSE,nucleus
+nuclear chromatin,FALSE,nucleus
+nuclear chromosome,FALSE,nucleus
+"nuclear chromosome, telomeric region",FALSE,nucleus
+nuclear condensin complex,FALSE,
+nuclear cyclin-dependent protein kinase holoenzyme complex,FALSE,
+nuclear envelope,TRUE,
+nuclear envelope lumen,FALSE,nuclear envelope
+nuclear euchromatin,FALSE,nucleus
+nuclear exosome (RNase complex),FALSE,nucleus
+nuclear heterochromatin,FALSE,nucleus
+nuclear inclusion body,FALSE,nucleus
+nuclear inner membrane,FALSE,nucleus
+nuclear lamina,FALSE,nucleus
+nuclear lumen,FALSE,nucleus
+nuclear matrix,FALSE,nucleus
+nuclear membrane,FALSE,nucleus
+nuclear nucleosome,FALSE,nucleus
+nuclear origin of replication recognition complex,FALSE,nucleus
+nuclear outer membrane,FALSE,nucleus
+nuclear outer membrane-endoplasmic reticulum membrane network,FALSE,endoplasmic reticulum
+nuclear pericentric heterochromatin,FALSE,nucleus
+nuclear periphery,FALSE,nucleus
+nuclear pore,TRUE,
+nuclear pore nuclear basket,FALSE,nuclear pore
+nuclear pore outer ring,FALSE,nuclear pore
+nuclear proteasome complex,FALSE,nucleus
+nuclear replication fork,FALSE,nuclear pore
+nuclear RNA export factor complex,FALSE,
+nuclear RNA-directed RNA polymerase complex,FALSE,
+nuclear speck,TRUE,
+nuclear stress granule,FALSE,nucleus
+nuclear telomeric heterochromatin,FALSE,nucleus
+nuclear ubiquitin ligase complex,FALSE,
+nucleolar ribonuclease P complex,FALSE,
+nucleolus,TRUE,
+nucleolus organizer region,FALSE,nucleolus
+nucleoplasm,TRUE,
+nucleosome,FALSE,nucleus
+nucleotide-activated protein kinase complex,FALSE,
+nucleotide-excision repair complex,FALSE,
+nucleotide-excision repair factor 1 complex,FALSE,
+nucleus,TRUE,
+NuRD complex,FALSE,
+NURF complex,FALSE,
+oligosaccharyltransferase complex,FALSE,nucleus
+oligosaccharyltransferase I complex,FALSE,
+oligosaccharyltransferase III complex,FALSE,
+organelle inner membrane,,
+organelle membrane,FALSE,
+organelle membrane contact site,,
+origin recognition complex,FALSE,
+other organism cell membrane,FALSE,
+outer acrosomal membrane,,
+outer dynein arm,FALSE,
+outer membrane,,
+outer mitochondrial membrane protein complex,FALSE,mitochondrion
+oxidoreductase complex,FALSE,
+oxoglutarate dehydrogenase complex,FALSE,
+P granule,TRUE,
+P-body,TRUE,
+palmitoyltransferase complex,FALSE,
+PAN complex,FALSE,
+paraferritin complex,FALSE,
+parallel fiber,FALSE,
+paranodal junction,FALSE,
+paranode region of axon,FALSE,
+paraspeckles,TRUE,
+PCAF complex,FALSE,
+PcG protein complex,FALSE,
+PCNA complex,FALSE,
+PCNA-p21 complex,FALSE,
+PeBoW complex,FALSE,
+pericentric heterochromatin,FALSE,
+pericentriolar material,FALSE,
+perichromatin fibrils,FALSE,
+periciliary membrane compartment,FALSE,plasma membrane
+perikaryon,FALSE,
+perinuclear endoplasmic reticulum,FALSE,endoplasmic reticulum
+perinuclear endoplasmic reticulum lumen,FALSE,endoplasmic reticulum
+perinuclear endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+perinuclear region of cytoplasm,FALSE,cytoplasm
+perinucleolar compartment,TRUE,
+peroxisomal matrix,FALSE,peroxisome
+peroxisomal membrane,FALSE,peroxisome
+peroxisome,TRUE,
+PET complex,FALSE,
+phagocytic cup,FALSE,phagasome
+phagocytic vesicle,FALSE,phagasome
+phagocytic vesicle membrane,FALSE,phagasome
+phagophore assembly site,FALSE,phagasome
+phagophore assembly site membrane,FALSE,phagasome
+phenylalanine-tRNA ligase complex,FALSE,
+"phosphatidylinositol 3-kinase complex, class IA",FALSE,
+"phosphatidylinositol 3-kinase complex, class IB",FALSE,
+"phosphatidylinositol 3-kinase complex, class III",FALSE,
+photoreceptor cell cilium,FALSE,plasma membrane
+photoreceptor connecting cilium,FALSE,
+photoreceptor disc membrane,,
+photoreceptor inner segment,FALSE,
+photoreceptor inner segment membrane,,
+photoreceptor outer segment,FALSE,
+photoreceptor outer segment membrane,,
+pi-body,TRUE,
+Piccolo NuA4 histone acetyltransferase complex,FALSE,
+pICln-Sm protein complex,FALSE,
+pinceau fiber,FALSE,
+piP-body,TRUE,
+plasma membrane,TRUE,
+plasma membrane protein complex,FALSE,plasma membrane
+plasma membrane raft,FALSE,plasma membrane
+platelet alpha granule,FALSE,platelet alpha granule
+platelet alpha granule membrane,FALSE,platelet alpha granule
+platelet dense granule,,
+platelet dense tubular network membrane,,
+plus-end kinesin complex,FALSE,
+PML body,TRUE,
+podosome,FALSE,
+polar microtubule,FALSE,
+polysomal ribosome,FALSE,ribosome
+polysome,FALSE,ribosome
+pore complex,FALSE,
+postsynapse,,
+postsynaptic actin cytoskeleton,,
+postsynaptic density,FALSE,plasma membrane
+postsynaptic membrane,FALSE,plasma membrane
+potassium channel complex,FALSE,
+PR-DUB complex,FALSE,
+PRC1 complex,FALSE,
+precatalytic spliceosome,FALSE,splicesome
+prefoldin complex,FALSE,
+"preribosome, large subunit precursor",FALSE,preribosome
+"preribosome, small subunit precursor",FALSE,preribosome
+presynapse,FALSE,
+presynaptic active zone,FALSE,
+presynaptic membrane,FALSE,plasma membrane
+protease inhibitor complex,FALSE,
+proteasome accessory complex,FALSE,proteasome
+proteasome complex,FALSE,proteasome
+proteasome core complex,FALSE,proteasome
+"proteasome core complex, alpha-subunit complex",FALSE,proteasome
+"proteasome core complex, beta-subunit complex",FALSE,proteasome
+proteasome regulatory particle,FALSE,proteasome
+"proteasome regulatory particle, base subcomplex",FALSE,proteasome
+"proteasome regulatory particle, lid subcomplex",FALSE,proteasome
+protein farnesyltransferase complex,FALSE,
+protein kinase complex,FALSE,
+protein phosphatase 4 complex,FALSE,
+protein phosphatase type 1 complex,FALSE,
+protein phosphatase type 2A complex,FALSE,
+protein serine/threonine phosphatase complex,FALSE,
+protein-containing complex,FALSE,
+protein-DNA complex,FALSE,nucleus
+protein-lipid complex,FALSE,
+proton-transporting two-sector ATPase complex,FALSE,
+proton-transporting V-type ATPase complex,FALSE,
+Prp19 complex,FALSE,
+pseudopodium,FALSE,
+PTW/PP1 phosphatase complex,FALSE,
+pyruvate dehydrogenase complex,FALSE,
+R2TP complex,FALSE,
+Rab-protein geranylgeranyltransferase complex,FALSE,
+Rad51B-Rad51C-Rad51D-XRCC2 complex,FALSE,
+Rad51C-XRCC3 complex,FALSE,
+radial spoke,FALSE,
+radial spoke stalk,FALSE,
+Ragulator complex,FALSE,
+rDNA heterochromatin,FALSE,nucleus
+receptor complex,FALSE,
+recycling endosome,FALSE,endosome
+recycling endosome lumen,FALSE,endosome
+recycling endosome membrane,FALSE,endosome
+replication fork,FALSE,nucleus
+replisome,FALSE,
+respirasome,FALSE,
+respiratory chain complex II,FALSE,
+retromer complex,FALSE,
+"retromer, cargo-selective complex",FALSE,
+ribonuclease H2 complex,FALSE,
+ribonuclease MRP complex,FALSE,
+ribonucleoprotein complex,FALSE,
+ribonucleoprotein granule,FALSE,nucleus
+ribosome,TRUE,
+RIC1-RGP1 guanyl-nucleotide exchange factor complex,FALSE,
+ripoptosome,FALSE,
+RISC complex,FALSE,
+RISC-loading complex,FALSE,
+RNA cap binding complex,FALSE,
+RNA N6-methyladenosine methyltransferase complex,FALSE,
+RNA polymerase I core factor complex,FALSE,
+RNA polymerase II transcription factor complex,FALSE,
+"RNA polymerase II, core complex",FALSE,
+"RNA polymerase II, holoenzyme",,
+RNA polymerase III complex,FALSE,
+rough endoplasmic reticulum,FALSE,endoplasmic reticulum
+rough endoplasmic reticulum lumen,FALSE,endoplasmic reticulum
+rough endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+RSF complex,FALSE,
+ruffle,FALSE,plasma membrane
+ruffle membrane,FALSE,plasma membrane
+ryanodine receptor complex,FALSE,
+RZZ complex,FALSE,
+SAGA complex,FALSE,
+SAGA-type complex,FALSE,
+SAM complex,FALSE,
+sarcolemma,FALSE,plasma membrane
+sarcomere,FALSE,cytoplasm
+sarcoplasm,FALSE,cytoplasm
+sarcoplasmic reticulum,FALSE,cytoplasm
+sarcoplasmic reticulum lumen,FALSE,cytoplasm
+sarcoplasmic reticulum membrane,FALSE,cytoplasm
+SCAR complex,FALSE,
+Scc2-Scc4 cohesin loading complex,FALSE,
+SCF ubiquitin ligase complex,FALSE,
+Sec61 translocon complex,FALSE,
+secondary lysosome,FALSE,
+secretory granule,FALSE,secretory granule
+secretory granule lumen,FALSE,secretory granule
+secretory granule membrane,FALSE,secretory granule
+semaphorin receptor complex,FALSE,
+senescence-associated heterochromatin focus,FALSE,nucleus
+septin complex,FALSE,
+serine C-palmitoyltransferase complex,FALSE,
+Set1C/COMPASS complex,FALSE,
+sex chromosome,FALSE,nucleus
+shelterin complex,FALSE,
+Shu complex,FALSE,
+signal recognition particle,FALSE,
+signal recognition particle receptor complex,FALSE,
+"signal recognition particle, endoplasmic reticulum targeting",FALSE,cytoplasm
+Sin3 complex,FALSE,
+site of DNA damage,FALSE,nucleus
+site of double-strand break,FALSE,nucleus
+Ski complex,FALSE,
+slit diaphragm,FALSE,
+Slx1-Slx4 complex,FALSE,
+SMAD protein complex,FALSE,
+small nuclear ribonucleoprotein complex,FALSE,nucleus
+small nucleolar ribonucleoprotein complex,FALSE,nucleus
+small ribosomal subunit,FALSE,ribosome
+small-subunit processome,FALSE,
+SMC loading complex,FALSE,
+Smc5-Smc6 complex,FALSE,
+SMN complex,FALSE,
+SMN-Gemin2 complex,FALSE,
+SMN-Sm protein complex,FALSE,
+smooth endoplasmic reticulum,FALSE,endoplasmic reticulum
+smooth endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+SNARE complex,FALSE,
+snRNA-activating protein complex,FALSE,
+sodium channel complex,FALSE,
+sodium:potassium-exchanging ATPase complex,FALSE,
+somatodendritic compartment,FALSE,
+SOSS complex,FALSE,
+spanning component of plasma membrane,FALSE,
+specific granule,FALSE,
+specific granule membrane,FALSE,
+spectrin,FALSE,plasma membrane
+spectrin-associated cytoskeleton,FALSE,plasma membrane
+sperm annulus,FALSE,
+sperm connecting piece,FALSE,
+sperm flagellum,FALSE,
+sperm head,FALSE,
+sperm midpiece,FALSE,
+sperm plasma membrane,FALSE,
+sperm principal piece,FALSE,
+spermatoproteasome complex,FALSE,proteasome
+spindle,FALSE,cytoplasm
+spindle microtubule,FALSE,cytoplasm
+spindle midzone,FALSE,cytoplasm
+spindle pole,FALSE,cytoplasm
+spindle pole centrosome,FALSE,cytoplasm
+spliceosomal complex,FALSE,splicesome
+spliceosomal snRNP complex,FALSE,splicesome
+spot adherens junction,FALSE,
+SPOTS complex,FALSE,
+SREBP-SCAP-Insig complex,FALSE,
+STAGA complex,FALSE,
+stereocilia ankle link,FALSE,
+stereocilia ankle link complex,FALSE,
+stereocilium,FALSE,
+stereocilium base,FALSE,
+stereocilium bundle,FALSE,
+stereocilium membrane,FALSE,
+stereocilium tip,FALSE,
+stress fiber,FALSE,
+striated muscle thin filament,,
+subapical complex,FALSE,
+SUMO activating enzyme complex,FALSE,
+supramolecular fiber,FALSE,
+supraspliceosomal complex,FALSE,
+SWI/SNF complex,FALSE,nucleus
+Swi5-Sfr1 complex,FALSE,
+Swr1 complex,FALSE,
+symbiont-containing vacuole,FALSE,
+symbiont-containing vacuole membrane,FALSE,
+symmetric synapse,,
+synapse,FALSE,plasma membrane
+synaptic membrane,FALSE,
+synaptic vesicle,FALSE,cytoplasm
+synaptic vesicle membrane,FALSE,cytoplasm
+synaptonemal complex,FALSE,
+T cell receptor complex,FALSE,
+T-tubule,FALSE,plasma membrane
+t-UTP complex,FALSE,
+TAP complex,FALSE,
+telomerase holoenzyme complex,FALSE,
+telomeric heterochromatin,FALSE,nucleus
+terminal bouton,FALSE,
+terminal cisterna,FALSE,
+tertiary granule,FALSE,
+tertiary granule membrane,FALSE,
+tetraspanin-enriched microdomain,FALSE,
+THO complex,FALSE,
+THO complex part of transcription export complex,FALSE,
+TIM22 mitochondrial import inner membrane insertion complex,FALSE,
+TIM23 mitochondrial import inner membrane translocase complex,FALSE,
+TORC1 complex,FALSE,
+TORC2 complex,FALSE,
+TRAF2-GSTP1 complex,FALSE,
+TRAMP complex,FALSE,
+trans-Golgi network,FALSE,trans-Golgi network
+trans-Golgi network membrane,FALSE,trans-Golgi network
+trans-Golgi network transport vesicle,FALSE,trans-Golgi network
+trans-Golgi network transport vesicle membrane,FALSE,trans-Golgi network
+transcription elongation factor complex,FALSE,
+transcription export complex,FALSE,
+transcription export complex 2,FALSE,
+transcription factor complex,FALSE,
+transcription factor TFIID complex,FALSE,
+transcription factor TFIIH core complex,FALSE,
+transcription factor TFIIH holo complex,FALSE,
+transcription factor TFIIIB complex,FALSE,
+transcription factor TFTC complex,FALSE,
+transcriptional preinitiation complex,FALSE,
+transcriptional repressor complex,FALSE,
+transcriptionally active chromatin,FALSE,nucleus
+transmembrane transporter complex,FALSE,
+transport vesicle,FALSE,cytoplasm
+transport vesicle membrane,FALSE,cytoplasm
+TRAPP complex,FALSE,
+tricellular tight junction,FALSE,
+tRNA methyltransferase complex,FALSE,
+tRNA-splicing ligase complex,FALSE,
+troponin complex,FALSE,
+TSC1-TSC2 complex,FALSE,
+tubular endosome,FALSE,endosome
+tubulin complex,FALSE,
+tumor necrosis factor receptor superfamily complex,FALSE,
+type III intermediate filament,,
+U1 snRNP,FALSE,nucleus
+U12-type spliceosomal complex,FALSE,splicesome
+U2 snRNP,FALSE,nucleus
+U2-type catalytic step 1 spliceosome,FALSE,splicesome
+U2-type catalytic step 2 spliceosome,FALSE,splicesome
+U2-type post-mRNA release spliceosomal complex,FALSE,splicesome
+U2-type precatalytic spliceosome,FALSE,splicesome
+U2-type prespliceosome,FALSE,splicesome
+U2-type spliceosomal complex,FALSE,splicesome
+U4 snRNP,FALSE,nucleus
+U4/U6 snRNP,FALSE,nucleus
+U4/U6 x U5 tri-snRNP complex,FALSE,nucleus
+U4atac snRNP,FALSE,nucleus
+U4atac/U6atac snRNP,FALSE,nucleus
+U6atac snRNP,FALSE,nucleus
+U7 snRNP,FALSE,nucleus
+UBC13-UEV1A complex,FALSE,
+ubiquitin ligase complex,FALSE,cytoplasm
+unconventional myosin complex,FALSE,
+uniplex complex,FALSE,
+uropod,TRUE,
+USH2 complex,FALSE,
+vacuolar membrane,FALSE,vacuole
+vacuolar proton-transporting V-type ATPase complex,FALSE,vacuole
+"vacuolar proton-transporting V-type ATPase, V1 domain",FALSE,vacuole
+varicosity,,
+VCB complex,FALSE,
+VCP-NPL4-UFD1 AAA ATPase complex,FALSE,
+very-low-density lipoprotein particle,FALSE,cytoplasm
+vesicle,FALSE,
+vesicle membrane,FALSE,
+viral integration complex,FALSE,
+voltage-gated calcium channel complex,FALSE,
+voltage-gated potassium channel complex,FALSE,
+voltage-gated sodium channel complex,FALSE,
+WASH complex,FALSE,
+Weibel-Palade body,FALSE,
+Wnt signalosome,FALSE,
+X chromosome,FALSE,nucleus
+XPC complex,FALSE,
+Z disc,FALSE,cytoplasm
+zeta DNA polymerase complex,FALSE,
+zonula adherens,,
+zymogen granule membrane,FALSE,

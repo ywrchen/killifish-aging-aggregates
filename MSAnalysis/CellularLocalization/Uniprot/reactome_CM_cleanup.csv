@@ -1,0 +1,98 @@
+name,Keep,Replace
+autophagosome,TRUE,
+autophagosome membrane,FALSE,autophagosome
+azurophil granule lumen,FALSE,lysosome
+azurophil granule membrane,FALSE,lysosome
+cell junction,FALSE,
+chromosome,FALSE,nucleus
+"chromosome, centromeric region",FALSE,nucleus
+ciliary base,FALSE,
+ciliary membrane,FALSE,
+ciliary tip,FALSE,
+cilium,FALSE,
+clathrin-coated endocytic vesicle,FALSE,cytoplasm
+clathrin-coated endocytic vesicle membrane,FALSE,cytoplasm
+clathrin-coated vesicle membrane,FALSE,cytoplasm
+clathrin-sculpted acetylcholine transport vesicle membrane,FALSE,cytoplasm
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane,FALSE,cytoplasm
+clathrin-sculpted glutamate transport vesicle membrane,FALSE,cytoplasm
+clathrin-sculpted monoamine transport vesicle membrane,FALSE,cytoplasm
+COPII-coated ER to Golgi transport vesicle,FALSE,cytoplasm
+cornified envelope,FALSE,plasma membrane
+cytoplasm,TRUE,
+cytoplasmic vesicle membrane,FALSE,
+cytosol,TRUE,
+early endosome,FALSE,endosome
+early endosome lumen,FALSE,endosome
+early endosome membrane,FALSE,endosome
+endocytic vesicle lumen,FALSE,endosome
+endocytic vesicle membrane,FALSE,endosome
+endolysosome lumen,FALSE,endosome
+endolysosome membrane,FALSE,endosome
+endoplasmic reticulum lumen,FALSE,endoplasmic reticulum
+endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+endoplasmic reticulum quality control compartment,FALSE,endoplasmic reticulum
+endoplasmic reticulum-Golgi intermediate compartment,FALSE,endoplasmic reticulum
+endoplasmic reticulum-Golgi intermediate compartment membrane,FALSE,endoplasmic reticulum
+endosome,TRUE,
+endosome lumen,FALSE,endosome
+endosome membrane,FALSE,endosome
+ER to Golgi transport vesicle membrane,FALSE,cytoplasm
+extracellular exosome,FALSE,extracellular region
+extracellular region,TRUE,
+ficolin-1-rich granule lumen,FALSE,ficolins
+ficolin-1-rich granule membrane,FALSE,ficolins
+Golgi lumen,FALSE,Golgi
+Golgi membrane,FALSE,Golgi
+Golgi-associated vesicle lumen,FALSE,Golgi
+Golgi-associated vesicle membrane,FALSE,Golgi
+integral component of lumenal side of endoplasmic reticulum membrane,FALSE,endoplasmic reticulum
+lamellar body,TRUE,
+lamellar body membrane,FALSE,lamellar body
+late endosome lumen,FALSE,endosome
+late endosome membrane,FALSE,endosome
+lipid droplet,FALSE,
+lysosomal lumen,FALSE,lysosome
+lysosomal membrane,FALSE,lysosome
+melanosome membrane,FALSE,melanosome
+microvillus,TRUE,
+microvillus membrane,FALSE,microvillus
+mitochondrial inner membrane,FALSE,mitochondrion
+mitochondrial intermembrane space,FALSE,mitochondrion
+mitochondrial matrix,FALSE,mitochondrion
+mitochondrial outer membrane,FALSE,mitochondrion
+mitochondrion,TRUE,
+multivesicular body lumen,FALSE,endosome
+nuclear envelope,TRUE,
+nucleoplasm,TRUE,
+peroxisomal matrix,FALSE,peroxisome
+peroxisomal membrane,FALSE,peroxisome
+phagocytic vesicle,TRUE,
+phagocytic vesicle lumen,FALSE,phagocytic vesicle
+phagocytic vesicle membrane,FALSE,phagocytic vesicle
+phagolysosome,TRUE,
+phagophore assembly site membrane,FALSE,autophagosome
+photoreceptor disc membrane,FALSE,plasma membrane
+photoreceptor inner segment membrane,FALSE,plasma membrane
+photoreceptor outer segment membrane,FALSE,plasma membrane
+plasma membrane,TRUE,
+platelet alpha granule lumen,FALSE,platelet alpha granule
+platelet alpha granule membrane,FALSE,platelet alpha granule
+platelet dense granule lumen,FALSE,platelet dense granule
+platelet dense granule membrane,FALSE,platelet dense granule
+platelet dense tubular network membrane,FALSE,platelet dense granule
+recycling endosome,FALSE,endosome
+recycling endosome membrane,FALSE,endosome
+sarcoplasmic reticulum lumen,FALSE,sarcoplasmic reticulum
+sarcoplasmic reticulum membrane,FALSE,sarcoplasmic reticulum
+secretory granule lumen,FALSE,secretory granule
+secretory granule membrane,FALSE,secretory granule
+smooth endoplasmic reticulum,FALSE,endoplasmic reticulum
+specific granule lumen,FALSE,
+specific granule membrane,FALSE,
+synaptic vesicle membrane,FALSE,
+tertiary granule lumen,FALSE,
+tertiary granule membrane,FALSE,
+trans-Golgi network membrane,FALSE,trans-Golgi network
+transport vesicle,FALSE,cytoplasm
+transport vesicle membrane,FALSE,transport vesicle

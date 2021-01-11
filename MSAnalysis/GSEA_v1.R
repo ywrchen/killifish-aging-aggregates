@@ -1,0 +1,144 @@
+# Run functional enrichment using cluster profiler for all combinations of the results
+# I will first generate all combinations of input file and run different enrichments using GSEA
+library("DOSE")
+library("clusterProfiler") 
+library(org.Hs.eg.db)
+
+# Set wd to the current directory
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
+# To convert ids to entrez ids
+hSymbols = read.table("GSEA/NCBI-Human-orthologs.txt", head = T, sep = "\t")
+
+# This is to generate all combinations of the input
+data = c('Prop', 'AGG', 'TL')
+tissue = c('Brain','Gut','Heart','Liver','Muscle','Skin') 
+comparison = c('OvY', 'TvY', 'TvO')
+
+## ************** Run this only for OldvsYoung *********************
+tissue = c('Testis') # This is because Testis is only there for OY comparison
+comparison = c('OvY')
+# ******************************************************************
+
+alldata = expand.grid(data, comparison, tissue) # generate and print lal combinations
+print(alldata)
+
+# For each combination
+for (d in 1:length(alldata[,1])){ # Uncimment this to run for all combinations
+# for (d in 1:1){ # Run for just one condition for test
+  
+  # Get the gene list ready for analysis ---------------------------------------------------------------------------------------------------------------------------
+  print (paste("GSEA/GeneSets/", alldata[d,1], "/", alldata[d,2], "/", alldata[d,3], "_", alldata[d,2], "_", alldata[d,1], ".csv", sep = ""))
+  data = read.csv(paste("GSEA/GeneSets/", alldata[d,1], "/", alldata[d,2], "/", alldata[d,3], "_", alldata[d,2], "_", alldata[d,1], ".csv", sep = ""))
+
+  dataH = merge(hSymbols, data, by.x = "N..furzeri.Protein.Id", by.y = "Protein") # Get human symbols
+  entrezIds = bitr(as.character(dataH[,2]), fromType="SYMBOL", toType="ENTREZID", OrgDb="org.Hs.eg.db") # Get entrez ids for annotation
+  dataHE = merge(dataH, entrezIds, by.x = "Human", by.y = "SYMBOL") # Get human symbols
+  head(dataHE)
+  
+  # There can be duplicate values because of paralogs, I take average of those
+  unique = aggregate(dataHE[,3], list(dataHE$Human), mean)
+  dataHEU = merge(unique, entrezIds, by.x = "Group.1", by.y = "SYMBOL") 
+  colnames(dataHEU) = c("Human", "mlog10QvalxFC", "entrez")
+  head(dataHEU)
+  
+  geneList = dataHEU[,2]  # gene list for GO 
+  names(geneList) = as.character(dataHEU[,1]) # with entrez ids as names
+  
+  geneListKegg = geneList # gene list for KEGG
+  names(geneListKegg) = as.character(dataHEU[,3]) #  with humna symbols as names
+  
+  # Sort gene list in decreasing order
+  geneList = sort(geneList, decreasing = TRUE)
+  geneListKegg = sort(geneListKegg, decreasing = TRUE)
+  
+  head(geneList)
+  tail(geneList)
+  
+  head(geneListKegg)
+  tail(geneListKegg)
+  
+  # Use Cluster profiler packages to run enrichment, and print results in output files
+  # GO GSEA Analysis ------------------------------------------------------------------------------------------------------------------------------------
+  ego3 <- gseGO(geneList     = geneList,
+                OrgDb        = org.Hs.eg.db,
+                keyType      = 'SYMBOL',
+                ont          = c("ALL"),
+                pvalueCutoff = 1)
+  head(ego3)
+
+  print(paste("Results/", alldata[d,1], "/", alldata[d,2], "/", "GSEA/", alldata[d,3], "_", alldata[d,1], "_GOGSEA_", alldata[d,2], ".csv", sep = ""))
+  write.table(ego3,
+              paste("GSEA/Results/", alldata[d,1], "/", alldata[d,2], "/", "GSEA/", alldata[d,3], "_", alldata[d,1], "_GOGSEA_", alldata[d,2], ".csv", sep = ""),
+              sep = ",", quote = T, row.names = F)
+
+  # KEGG Gene Set Enrichment Analysis ----------------------------------------------------------------------------------------------------------------------------
+  kk2 <- gseKEGG(geneList     = geneListKegg,
+                 organism     = 'hsa',
+                 pvalueCutoff = 1)
+  kk2 = setReadable(kk2, OrgDb = org.Hs.eg.db, keyType="ENTREZID")
+  head(kk2)
+  write.table(kk2,
+              paste("GSEA/Results/", alldata[d,1], "/", alldata[d,2], "/", "KEGG/", alldata[d,3], "_", alldata[d,1], "_KEGG_", alldata[d,2], ".csv", sep = ""),
+              sep = ",", quote = T, row.names = F)
+
+
+  # KEGG Module Gene Set Enrichment Analysis  ----------------------------------------------------------------------------------------------------------------------------
+  # KEGG Module is a collection of manually defined function units. In some situation, KEGG Modules have a more straightforward interpretation.
+  mkk2 <- gseMKEGG(geneList = geneListKegg,
+                   organism = 'hsa',
+                   minGSSize    = 5,
+                   pvalueCutoff = 1)
+  mkk2 = setReadable(mkk2, OrgDb = org.Hs.eg.db, keyType="ENTREZID")
+  head(mkk2)
+  write.table(mkk2,
+              paste("GSEA/Results/", alldata[d,1], "/", alldata[d,2], "/", "KEGG/", alldata[d,3], "_", alldata[d,1], "_KEGG-Modules_", alldata[d,2], ".csv", sep = ""),
+              sep = ",", quote = T, row.names = F)
+
+    head(mkk2)
+
+  # MSigDb --- GO ALL  ----------------------------------------------------------------------------------------------------------------------------
+  msGO <- read.gmt("GSEA/MSigDb_Collections_20190318/c5.all.v6.2.entrez.gmt") # Select any GMT file here
+  egmt2 <- GSEA(geneList     = geneListKegg,
+                TERM2GENE    = msGO,
+                pvalueCutoff = 1)
+  egmt2 = setReadable(egmt2, OrgDb = org.Hs.eg.db, keyType="ENTREZID")
+  head(egmt2)
+  write.table(egmt2,
+              paste("GSEA/Results/", alldata[d,1], "/", alldata[d,2], "/", "MSigDb/", alldata[d,3], "_", alldata[d,1], "_MSigDb-GO-ALL_", alldata[d,2], ".csv", sep = ""),
+              sep = ",", quote = T, row.names = F)
+
+  # MSigDb --- HALLMARKS  ----------------------------------------------------------------------------------------------------------------------------
+  hm <- read.gmt("GSEA/MSigDb_Collections_20190318/h.all.v6.2.entrez.gmt") # Select any GMT file here
+  egmt3 <- GSEA(geneList     = geneListKegg,
+                TERM2GENE    = hm,
+                pvalueCutoff = 1)
+  egmt3 = setReadable(egmt3, OrgDb = org.Hs.eg.db, keyType="ENTREZID")
+  head(egmt3)
+  write.table(egmt3,
+              paste("GSEA/Results/", alldata[d,1], "/", alldata[d,2], "/", "MSigDb/", alldata[d,3], "_", alldata[d,1], "_MSigDb-HALLMARKS_", alldata[d,2], ".csv", sep = ""),
+              sep = ",", quote = T, row.names = F)
+
+  # MSigDb --- GO CC  ----------------------------------------------------------------------------------------------------------------------------
+  mscc <- read.gmt("GSEA/MSigDb_Collections_20190318/c5.cc.v6.2.entrez.gmt") # Select any GMT file here
+  egmt4 <- GSEA(geneList     = geneListKegg,
+                TERM2GENE    = mscc,
+                pvalueCutoff = 1)
+  egmt4 = setReadable(egmt4, OrgDb = org.Hs.eg.db, keyType="ENTREZID")
+  head(egmt4)
+  write.table(egmt4, 
+              paste("GSEA/Results/", alldata[d,1], "/", alldata[d,2], "/", "MSigDb/", alldata[d,3], "_", alldata[d,1], "_MSigDb-GOCC_", alldata[d,2], ".csv", sep = ""),
+              sep = ",", quote = T, row.names = F)
+  
+  # Disese Ontology (DO) analysis  ----------------------------------------------------------------------------------------------------------------------------
+  do <- gseDO(geneList     = geneListKegg,
+              pvalueCutoff = 1)
+  doId = setReadable(do, OrgDb = org.Hs.eg.db, keyType="ENTREZID")
+  head(doId)
+  write.table(doId, 
+              paste("GSEA/Results/", alldata[d,1], "/", alldata[d,2], "/", "DO/", alldata[d,3], "_", alldata[d,1], "_DO_", alldata[d,2], ".csv", sep = ""),
+              sep = ",", quote = T, row.names = F)
+  
+  rm(list=setdiff(ls(), c("alldata", "hSymbols"))) 
+  
+}
