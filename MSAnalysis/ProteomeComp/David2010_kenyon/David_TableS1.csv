@@ -6,39 +6,39 @@ Q18115,WBGene00004459,rpn-2,C23G10.4,2.6,4.6,1.8,23.5,26S proteasome non-ATPase 
 O76577,WBGene00004467,rpn-11,K07D4.3,2.9,6.9,4.2,8.4,26S proteasome non-ATPase regulatory subunit 14,YES
 Q04908,WBGene00004460,rpn-3,C30C11.2,2.3,5.5,1.7,6.9,26S proteasome non-ATPase regulatory subunit 3,YES
 Q20585,WBGene00004463,rpn-7,F49C12.8,2.7,7.2,2.2,9.9,26S proteasome non-ATPase regulatory subunit 6,YES
-O61199,WBGene00020679,T22B11.5,T22B11.5,1.4,3.4,1.4,6.8,"2-oxoglutarate dehydrogenase E1 component, mitochondrial",YES
+O61199,WBGene00020679,T22B11.5,T22B11.5,1.4,3.4,1.4,6.8,"2-oxoglutarate dehydrogenase E1 component, mitochondrial",NO
 Q09581,WBGene00002266,lec-3,ZK892.1,2.2,2,1.9,10.5,32 kDa beta-galactoside-binding lectin lec-3,YES
 Q22100,WBGene00002183,kat-1,T02G5.8,2,5.7,1.5,9,3-ketoacyl-coa thiolase protein 1,YES
-P49196,WBGene00004481,rps-12,F54E7.2,2.6,7.1,1.4,11.7,40S ribosomal protein S12,YES
+P49196,WBGene00004481,rps-12,F54E7.2,2.6,7.1,1.4,11.7,40S ribosomal protein S12,NO
 P51404,WBGene00004482,rps-13,C16A3.9,2,5.3,1.6,14.1,40S ribosomal protein S13,YES
-P48150,WBGene00004483,rps-14,F37C12.9,1.9,3.5,1.3,7.8,40S ribosomal protein S14,YES
+P48150,WBGene00004483,rps-14,F37C12.9,1.9,3.5,1.3,7.8,40S ribosomal protein S14,NO
 Q9XVP0,WBGene00004484,rps-15,F36A2.6,2.9,7.3,2,8.2,40S ribosomal protein S15,YES
-Q22054,WBGene00004485,rps-16,T01C3.6,1.4,4.3,1.2,9.4,40S ribosomal protein S16,YES
+Q22054,WBGene00004485,rps-16,T01C3.6,1.4,4.3,1.2,9.4,40S ribosomal protein S16,NO
 O01692,WBGene00004486,rps-17,T08B2.10,2.1,6.8,1.7,10.4,40S ribosomal protein S17,YES
 O18650,WBGene00004488,rps-19,T05F1.3,3.2,9,1.9,17.8,40S ribosomal protein S19,YES
-P51403,WBGene00004471,rps-2,C49H3.11,1.6,3.9,1.2,8.4,40S ribosomal protein S2,YES
+P51403,WBGene00004471,rps-2,C49H3.11,1.6,3.9,1.2,8.4,40S ribosomal protein S2,NO
 P49197,WBGene00004490,rps-21,F37C12.11,2,5.9,1.5,13.9,40S ribosomal protein S21,YES
 Q19877,WBGene00004492,rps-23,F28D1.7,1.8,4.2,2.3,5.4,40S ribosomal protein S23,YES
 P52821,WBGene00004494,rps-25,K02B2.5,2.1,7,1.7,15.2,40S ribosomal protein S25,YES
-O45499,WBGene00004495,rps-26,F39B2.6,2.8,5.7,1.4,9.8,40S ribosomal protein S26,YES
-Q9TXP0,WBGene00004496,rps-27,F56E10.4,1.9,3.2,1.4,8,40S ribosomal protein S27,YES
+O45499,WBGene00004495,rps-26,F39B2.6,2.8,5.7,1.4,9.8,40S ribosomal protein S26,NO
+Q9TXP0,WBGene00004496,rps-27,F56E10.4,1.9,3.2,1.4,8,40S ribosomal protein S27,NO
 P37165,WBGene00006725,ubl-1,H06I04.4,2.7,7.3,2.1,11.5,40S ribosomal protein S27a,YES
-Q95Y04,WBGene00004497,rps-28,Y41D4B.5,2,4.5,1.2,9.2,40S ribosomal protein S28,YES
+Q95Y04,WBGene00004497,rps-28,Y41D4B.5,2,4.5,1.2,9.2,40S ribosomal protein S28,NO
 P48152,WBGene00004472,rps-3,C23G10.3,1.8,4.1,1.6,9.3,40S ribosomal protein S3,YES
-P48154,WBGene00004470,rps-1,F56F3.5,1.3,3.3,1,7.1,40S ribosomal protein S3a,YES
-Q9N3X2,WBGene00004473,rps-4,Y43B11AR.4,1.3,3.6,1.4,6.1,40S ribosomal protein S4,YES
+P48154,WBGene00004470,rps-1,F56F3.5,1.3,3.3,1,7.1,40S ribosomal protein S3a,NO
+Q9N3X2,WBGene00004473,rps-4,Y43B11AR.4,1.3,3.6,1.4,6.1,40S ribosomal protein S4,NO
 P49041,WBGene00004474,rps-5,T05E11.1,2,4.2,1.9,11.2,40S ribosomal protein S5,YES
 Q9NEN6,WBGene00004475,rps-6,Y71A12B.1,2.5,5.9,1.7,13.6,40S ribosomal protein S6,YES
-Q23312,WBGene00004476,rps-7,ZC434.2,1.6,4.2,1,10.3,40S ribosomal protein S7,YES
+Q23312,WBGene00004476,rps-7,ZC434.2,1.6,4.2,1,10.3,40S ribosomal protein S7,NO
 P48156,WBGene00004477,rps-8,F42C5.8,3.1,7.9,2.4,18.3,40S ribosomal protein S8,YES
-Q20228,WBGene00004478,rps-9,F40F8.10,1.9,3,1.1,10,40S ribosomal protein S9,YES
-P46769,WBGene00004469,rps-0,B0393.1,0.8,1.7,0.8,4.5,40S ribosomal protein SA,YES
-Q27274,WBGene00004405,rop-1,C12D8.11,2.1,2.7,1.3,6.4,60 kDa SS-A/Ro ribonucleoprotein homolog,YES
-Q93572,WBGene00004408,rpa-0,F25H2.10,1.9,5.3,1.3,10.8,60S acidic ribosomal protein P0,YES
-P91913,WBGene00004409,rla-1,Y37E3.7,2.5,4.4,1.4,11.9,60S acidic ribosomal protein P1,YES
+Q20228,WBGene00004478,rps-9,F40F8.10,1.9,3,1.1,10,40S ribosomal protein S9,NO
+P46769,WBGene00004469,rps-0,B0393.1,0.8,1.7,0.8,4.5,40S ribosomal protein SA,NO
+Q27274,WBGene00004405,rop-1,C12D8.11,2.1,2.7,1.3,6.4,60 kDa SS-A/Ro ribonucleoprotein homolog,NO
+Q93572,WBGene00004408,rpa-0,F25H2.10,1.9,5.3,1.3,10.8,60S acidic ribosomal protein P0,NO
+P91913,WBGene00004409,rla-1,Y37E3.7,2.5,4.4,1.4,11.9,60S acidic ribosomal protein P1,NO
 O01504,WBGene00016493,C37A2.7,C37A2.7,2,9,1.6,9.4,60S acidic ribosomal protein P2,YES
 Q09533,WBGene00004421,rpl-10,F10B5.1,1.9,3,1.5,7.3,60S ribosomal protein L10,YES
-Q9N4I4,WBGene00004412,rpl-1,Y71F9AL.13,2.1,6.4,1.2,11.5,60S ribosomal protein L10a,YES
+Q9N4I4,WBGene00004412,rpl-1,Y71F9AL.13,2.1,6.4,1.2,11.5,60S ribosomal protein L10a,NO
 P61866,WBGene00004424,rpl-12,JC8.3,2.1,4.5,4,10.2,60S ribosomal protein L12,YES
 P91128,WBGene00004425,rpl-13,C32E8.2,2.9,6.6,1.9,14.7,60S ribosomal protein L13,YES
 Q27389,WBGene00004428,rpl-16,M01F1.2,2.7,5.8,1.7,12.4,60S ribosomal protein L13a,YES
@@ -48,7 +48,7 @@ O45946,WBGene00004430,rpl-18,Y45F10D.12,2.1,5.3,1.5,10,60S ribosomal protein L18
 O44480,WBGene00004432,rpl-20,E04A4.8,2.1,6,1.7,10,60S ribosomal protein L18a,YES
 O02639,WBGene00004431,rpl-19,C09D4.5,3.2,6.1,1.8,13.4,60S ribosomal protein L19,YES
 P34334,WBGene00004433,rpl-21,C14B9.7,2.8,5,1.9,10.3,60S ribosomal protein L21,YES
-P52819,WBGene00004434,rpl-22,C27A2.2,1.4,4.6,1.5,7.1,60S ribosomal protein L22,YES
+P52819,WBGene00004434,rpl-22,C27A2.2,1.4,4.6,1.5,7.1,60S ribosomal protein L22,NO
 P48158,WBGene00004435,rpl-23,B0336.10,1.7,3.9,1.5,9.1,60S ribosomal protein L23,YES
 Q20647,WBGene00004439,rpl-25.2,F52B5.6,2.7,4.7,1.5,9.7,60S ribosomal protein L23a 2,YES
 O01868,WBGene00004436,rpl-24.1,D1007.12,2,3.8,1.9,9.7,60S ribosomal protein L24,YES
@@ -65,54 +65,54 @@ P49405,WBGene00004416,rpl-5,F54C9.5,1.7,6.3,1.8,12.5,60S ribosomal protein L5,YE
 P47991,WBGene00004417,rpl-6,R151.3,2.6,5.5,1.8,12.9,60S ribosomal protein L6,YES
 O01802,WBGene00004418,rpl-7,F53G12.10,2.1,7.5,1.5,10.9,60S ribosomal protein L7,YES
 Q966C6,WBGene00004419,rpl-7A,Y24D9A.4,2.3,7.8,1.9,16.1,60S ribosomal protein L7a,YES
-Q9XVF7,WBGene00004413,rpl-2,B0250.1,1.7,5.1,1.3,9.3,60S ribosomal protein L8,YES
-Q95Y90,WBGene00004420,rpl-9,R13A5.8,1.6,3.5,1,11.3,60S ribosomal protein L9,YES
+Q9XVF7,WBGene00004413,rpl-2,B0250.1,1.7,5.1,1.3,9.3,60S ribosomal protein L8,NO
+Q95Y90,WBGene00004420,rpl-9,R13A5.8,1.6,3.5,1,11.3,60S ribosomal protein L9,NO
 Q09EF5,WBGene00018051,dyf-14,F35D11.11,3,2.5,2.3,4.5,"Abnormal dye filling protein 14, isoform a  (Fragment)",YES
 O01615,WBGene00020588,T19H12.2,T19H12.2,3.2,7.1,2,8.9,Acidic leucine-rich nuclear phosphoprotein 32-related protein 2,YES
-P10983,WBGene00000063,act-1,T04C12.6,2.3,1.8,0.9,3.6,Actin-1/3,YES
+P10983,WBGene00000063,act-1,T04C12.6,2.3,1.8,0.9,3.6,Actin-1/3,NO
 Q07750,WBGene00006794,unc-60,C38C3.5,2.3,6.7,2,14.9,"Actin-depolymerizing factor 1, isoforms a/b",YES
-Q966M3,WBGene00016943,acdh-1,C55B7.4,1.6,0.9,0.9,4.1,"Acyl coa dehydrogenase protein 1, isoform a ",YES
+Q966M3,WBGene00016943,acdh-1,C55B7.4,1.6,0.9,0.9,4.1,"Acyl coa dehydrogenase protein 1, isoform a ",NO
 Q19057,WBGene00017125,E04F6.5,E04F6.5,2.3,3.6,2,8.2,"Acyl coa dehydrogenase protein 12, isoform a ",YES
 P27604,WBGene00019322,K02F2.2,K02F2.2,2.6,7.7,1.7,8.6,Adenosylhomocysteinase,YES
 Q95YA9,WBGene00000294,cas-1,F41G4.2,2.4,3.9,2.6,8.4,Adenylyl cyclase-associated protein,YES
 O01541,WBGene00000197,ars-2,F28H1.3,2.6,5.3,2.1,9.1,Alanyl trna synthetase protein 2,YES
-Q17335,WBGene00019240,H24K24.3,H24K24.3,1.9,6.5,1.4,7.5,Alcohol dehydrogenase class-3,YES
+Q17335,WBGene00019240,H24K24.3,H24K24.3,1.9,6.5,1.4,7.5,Alcohol dehydrogenase class-3,NO
 Q20780,WBGene00000107,alh-1,F54D8.3,1.9,4.8,1.9,12.3,"Aldehyde dehydrogenase protein 1, isoform a",YES
-B6EU49,N/A,N/A,N/A,2.7,3,1.4,5.6,Alkali myosin light chain long isoform,YES
-P91910,WBGene00003175,mec-12,C44B11.3,1.6,3.3,0.8,7.9,Alpha tubulin (Tba-3),YES
-Q17409,N/A,N/A,N/A,1.5,3.8,1.1,8.1,Alpha-1 tubulin,YES
-Q22968,WBGene00017765,F25B4.1,F25B4.1,0.9,2.1,0.8,4.9,Aminomethyltransferase,YES
+B6EU49,N/A,N/A,N/A,2.7,3,1.4,5.6,Alkali myosin light chain long isoform,NO
+P91910,WBGene00003175,mec-12,C44B11.3,1.6,3.3,0.8,7.9,Alpha tubulin (Tba-3),NO
+Q17409,N/A,N/A,N/A,1.5,3.8,1.1,8.1,Alpha-1 tubulin,NO
+Q22968,WBGene00017765,F25B4.1,F25B4.1,0.9,2.1,0.8,4.9,Aminomethyltransferase,NO
 Q6IMP3,N/A,N/A,N/A,2.5,2.5,2.3,5.4,ANC-1,YES
 Q8MQC7,WBGene00000100,ajm-1,C25A11.4,2.3,2.4,1.6,4.9,"Apical junction molecule protein 1, isoform d",YES
 P34552,WBGene00007010,alx-1,R10E12.1,4.1,5.6,2.1,12.6,Apoptosis-linked gene 2-interacting protein X 1,YES
 Q19722,WBGene00003815,nrs-1,F22D6.3,2.2,5.8,2,9.4,"Asparaginyl-tRNA synthetase, cytoplasmic",YES
-Q17994,WBGene00015778,C14F11.1,C14F11.1,1.4,1.8,1.1,4.9,Aspartate aminotransferase,YES
+Q17994,WBGene00015778,C14F11.1,C14F11.1,1.4,1.8,1.1,4.9,Aspartate aminotransferase,NO
 Q03577,WBGene00001094,drs-1,B0464.1,1.6,4.2,2.7,10.7,"Aspartyl-tRNA synthetase, cytoplasmic",YES
-P91283,WBGene00000230,atp-3,F27C1.7,1.4,4.2,1.5,8.7,ATP synthase,YES
-Q19126,WBGene00000207,asb-2,F02E8.1,1.6,1.9,1.1,5.9,Atp synthase b homolog protein 2,YES
-Q95XJ0,WBGene00022089,Y69A2AR.18,Y69A2AR.18,1.1,1.7,1,5.7,ATP synthase gamma chain,YES
-Q9XXK1,WBGene00010419,phi-37,H28O16.1,1.3,2.7,1.3,5.9,"ATP synthase subunit alpha, mitochondrial",YES
-P46561,WBGene00000229,atp-2,C34E10.6,1.4,3,1.3,6.8,"ATP synthase subunit beta, mitochondrial",YES
-Q09544,WBGene00019061,F58F12.1,F58F12.1,1,3.9,0.8,7,"ATP synthase subunit delta, mitochondrial",YES
+P91283,WBGene00000230,atp-3,F27C1.7,1.4,4.2,1.5,8.7,ATP synthase,NO
+Q19126,WBGene00000207,asb-2,F02E8.1,1.6,1.9,1.1,5.9,Atp synthase b homolog protein 2,NO
+Q95XJ0,WBGene00022089,Y69A2AR.18,Y69A2AR.18,1.1,1.7,1,5.7,ATP synthase gamma chain,NO
+Q9XXK1,WBGene00010419,phi-37,H28O16.1,1.3,2.7,1.3,5.9,"ATP synthase subunit alpha, mitochondrial",NO
+P46561,WBGene00000229,atp-2,C34E10.6,1.4,3,1.3,6.8,"ATP synthase subunit beta, mitochondrial",NO
+Q09544,WBGene00019061,F58F12.1,F58F12.1,1,3.9,0.8,7,"ATP synthase subunit delta, mitochondrial",NO
 Q95YF3,WBGene00000479,cgh-1,C07H6.5,2.5,6.7,1.6,12.6,ATP-dependent RNA helicase cgh-1,YES
 P34689,WBGene00001598,glh-1,T21G5.3,2.8,2.1,2.6,5.6,ATP-dependent RNA helicase glh-1,YES
-O76743,WBGene00001601,glh-4,T12F5.3,3.1,2.6,1.1,4,ATP-dependent RNA helicase glh-4,YES
+O76743,WBGene00001601,glh-4,T12F5.3,3.1,2.6,1.1,4,ATP-dependent RNA helicase glh-4,NO
 Q10663,WBGene00001564,gei-7,C05E4.9,1.4,1.2,1,3.4,Bifunctional glyoxylate cycle protein,NO
 O01542,WBGene00000779,cpn-3,F28H1.2,3.5,3.3,3.6,5.6,Calponin protein 3,YES
 P27798,WBGene00000802,crt-1,Y38A10A.5,2.6,10.3,1.7,12.4,Calreticulin,YES
-Q20203,WBGene00000822,csq-1,F40E10.3,0.5,1.7,0.5,4.5,Calsequestrin,YES
+Q20203,WBGene00000822,csq-1,F40E10.3,0.5,1.7,0.5,4.5,Calsequestrin,NO
 P42168,WBGene00002202,kin-19,C03C10.1,3.2,6.3,2.1,6,Casein kinase I isoform alpha,YES
-P18334,WBGene00002191,kin-3,B0205.7,N/A,7.6,1.7,8.6,Casein kinase II subunit alpha,YES
+P18334,WBGene00002191,kin-3,B0205.7,N/A,7.6,1.7,8.6,Casein kinase II subunit alpha,NO
 O61235,WBGene00000830,ctl-1,Y54G11A.6,4,5.2,2.4,9,Catalase-2,YES
 P50140,WBGene00002025,hsp-60,Y22D7AL.5,2.3,7.6,1.6,11.4,"Chaperonin homolog Hsp-60, mitochondrial",YES
 Q18143,WBGene00016084,C25A8.4,C25A8.4,2.3,4.2,1.5,9.3,Chitinase-like protein C25A8.4,YES
 Q17802,WBGene00000465,cej-1,C07G2.1,3.3,4.1,3,6,Chondroitin proteoglycan 1,YES
-P41996,WBGene00015102,cpg-2,B0280.5,4.2,9.9,N/A,19.3,Chondroitin proteoglycan-2,YES
-O62246,WBGene00009732,F45G2.4,F45G2.4,N/A,4.3,1.3,9.9,Coatomer subunit epsilon,YES
-O44742,WBGene00019001,F57B10.3,F57B10.3,1,3.2,1.4,5,Cofactor-independent phosphoglycerate mutase,YES
-P17140,WBGene00002280,let-2,F01G12.5,3.3,2.6,1.4,7.1,Collagen alpha-2(IV) chain,YES
+P41996,WBGene00015102,cpg-2,B0280.5,4.2,9.9,N/A,19.3,Chondroitin proteoglycan-2,NO
+O62246,WBGene00009732,F45G2.4,F45G2.4,N/A,4.3,1.3,9.9,Coatomer subunit epsilon,NO
+O44742,WBGene00019001,F57B10.3,F57B10.3,1,3.2,1.4,5,Cofactor-independent phosphoglycerate mutase,NO
+P17140,WBGene00002280,let-2,F01G12.5,3.3,2.6,1.4,7.1,Collagen alpha-2(IV) chain,NO
 Q9N425,WBGene00000815,csn-3,Y38C1AA.2,2.3,5.6,2.7,8.9,COP9 signalosome complex subunit 3,YES
-Q94261,WBGene00019543,cif-1,K08F11.3,2.3,4.8,N/A,13.1,COP9/Signalosome and eIF3 complex-shared subunit 1,YES
+Q94261,WBGene00019543,cif-1,K08F11.3,2.3,4.8,N/A,13.1,COP9/Signalosome and eIF3 complex-shared subunit 1,NO
 Q9TYY2,WBGene00000535,cpi-1,K08B4.6,4.1,18.5,2.7,16.6,Cystatin,YES
 O76618,WBGene00000800,crs-1,Y23H5A.7,1.9,5.2,1.5,7.3,"Cysteinyl trna synthetase protein 1, isoform a ",YES
 Q09979,WBGene00000970,dhs-6,C17G10.8,2.8,5.6,1.7,13.4,"Dehydrogenases, short chain protein 6",YES
@@ -123,37 +123,37 @@ Q18066,WBGene00001000,dim-1,C18A11.7,4.1,3.5,2.8,6,Disorganized muscle protein 1
 P90994,WBGene00015184,djr-1.1,B0432.2,2.3,5.9,1.8,16.3,Dj-1 (Mammalian transcriptional regulator) related protein 1.1,YES
 Q21902,WBGene00003157,mcm-5,R10E4.4,2.5,5.1,2.1,7.6,DNA replication licensing factor mcm-5,YES
 P34647,WBGene00003158,mcm-6,ZK632.1,3.8,3.7,2,11.7,DNA replication licensing factor mcm-6,YES
-O16303,WBGene00001037,dnj-19,T05C3.5,1.8,5,1.3,10.2,Dnaj domain (Prokaryotic heat shock protein) protein 19 ,YES
+O16303,WBGene00001037,dnj-19,T05C3.5,1.8,5,1.3,10.2,Dnaj domain (Prokaryotic heat shock protein) protein 19 ,NO
 Q18165,WBGene00001006,dlg-1,C25F6.2,3,2.8,1.8,7.5,"Drosophila discs large homolog protein 1, isoform a",YES
 P39055,WBGene00001130,dyn-1,C02C6.1,2.8,3.6,1.9,6.7,Dynamin,YES
 Q8WQC9,WBGene00001093,drp-1,T12E12.4,9.2,8.5,2.6,10.8,"Dynamin related protein protein 1, isoform b",YES
-Q19070,N/A,N/A,N/A,1,4.6,1.6,7.1,Eft-1 protein,YES
-Q11190,WBGene00002855,let-721,C05D11.12,2.3,3.3,1.2,6,"Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial",YES
-P53013,WBGene00001168,eft-3,F31E3.5,1.7,4.5,1.4,8.9,Elongation factor 1-alpha,YES
+Q19070,N/A,N/A,N/A,1,4.6,1.6,7.1,Eft-1 protein,NO
+Q11190,WBGene00002855,let-721,C05D11.12,2.3,3.3,1.2,6,"Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial",NO
+P53013,WBGene00001168,eft-3,F31E3.5,1.7,4.5,1.4,8.9,Elongation factor 1-alpha,NO
 P29691,WBGene00001167,eft-2,F25H5.4,2.2,5.5,1.5,10.4,Elongation factor 2,YES
-Q9XV52,WBGene00009246,F29C12.4,F29C12.4,1.9,3,0.8,6.5,"Elongation factor G, mitochondrial",YES
+Q9XV52,WBGene00009246,F29C12.4,F29C12.4,1.9,3,0.8,6.5,"Elongation factor G, mitochondrial",NO
 Q20819,WBGene00010094,tsfm-1,F55C5.5,2.7,3.5,1.6,8.4,Elongation factor Ts,YES
-Q19072,WBGene00007000,tufm-1,Y71H2AM.23,1.8,3.3,1.2,6.6,Elongation factor Tu,YES
+Q19072,WBGene00007000,tufm-1,Y71H2AM.23,1.8,3.3,1.2,6.6,Elongation factor Tu,NO
 Q27527,WBGene00011884,enol-1,T21B10.2,2.3,3.8,2,7.4,Enolase,YES
-O45106,WBGene00001154,ech-5,F56B3.5,2,2.8,1.3,6.5,Enoyl-coa hydratase protein 5 ,YES
+O45106,WBGene00001154,ech-5,F56B3.5,2,2.8,1.3,6.5,Enoyl-coa hydratase protein 5 ,NO
 P91015,WBGene00001333,erm-1,C01G8.5,2.7,3.4,1.6,5.8,ERM-1A,YES
-P27639,WBGene00002083,inf-1,F57B9.6,2,3.1,1,6.2,Eukaryotic initiation factor 4A,YES
+P27639,WBGene00002083,inf-1,F57B9.6,2,3.1,1,6.2,Eukaryotic initiation factor 4A,NO
 O16520,WBGene00020269,T05H4.6a,T05H4.6,1.9,3.5,1.8,6.5,Eukaryotic peptide chain release factor subunit 1,YES
 P34339,WBGene00001209,egl-45,C27D11.1,3,5.7,1.9,7.4,Eukaryotic translation initiation factor 3 subunit A,YES
 Q9XWI6,WBGene00001225,eif-3.B,Y54E2A.11,2.7,4.3,1.5,7.6,Eukaryotic translation initiation factor 3 subunit B,YES
-O02328,WBGene00001226,eif-3.C,T23D8.4,1.8,3.4,0.8,5.1,Eukaryotic translation initiation factor 3 subunit C,YES
+O02328,WBGene00001226,eif-3.C,T23D8.4,1.8,3.4,0.8,5.1,Eukaryotic translation initiation factor 3 subunit C,NO
 Q19706,WBGene00001230,eif-3.G,F22B5.2,2.2,4.5,1.9,10.2,Eukaryotic translation initiation factor 3 subunit G,YES
 O61955,WBGene00002061,ife-3,B0348.6,4.2,8.9,2.4,16.8,Eukaryotic translation initiation factor 4E-3,YES
-P34563,WBGene00002064,iff-1,T05G5.10,1.4,2.5,1.7,5.2,Eukaryotic translation initiation factor 5A-1,YES
-Q20751,WBGene00002065,iff-2,F54C9.1,0.7,2.1,0.9,5,Eukaryotic translation initiation factor 5A-2,YES
+P34563,WBGene00002064,iff-1,T05G5.10,1.4,2.5,1.7,5.2,Eukaryotic translation initiation factor 5A-1,NO
+Q20751,WBGene00002065,iff-2,F54C9.1,0.7,2.1,0.9,5,Eukaryotic translation initiation factor 5A-2,NO
 Q20121,WBGene00018152,F37C12.7,F37C12.7,3.5,7.3,2.2,7.9,Fatty acid coa synthetase family protein 4 ,YES
 Q20224,WBGene00002254,lbp-2,F40F4.2,3.5,15.2,2.9,16.7,Fatty acid-binding protein homolog 2,YES
-O01812,WBGene00002258,lbp-6,W02D3.5,2.7,5.1,1.3,4.2,Fatty acid-binding protein homolog 6,YES
+O01812,WBGene00002258,lbp-6,W02D3.5,2.7,5.1,1.3,4.2,Fatty acid-binding protein homolog 6,NO
 P34382,WBGene00001385,far-1,F02A9.2,1.5,11.5,1.8,14.7,Fatty-acid and retinol-binding protein 1,YES
 P34383,WBGene00001386,far-2,F02A9.3,2.4,7.7,1.5,11.7,Fatty-acid and retinol-binding protein 2,YES
 Q17339,WBGene00001595,gld-1,T23G11.3,3.7,2.4,1.9,6.2,Female germline-specific tumor suppressor gld-1,YES
 A8WFI8,N/A,N/A,N/A,3.3,3.7,2.9,9.5,"Filamin (Actin binding protein) alpha protein 1, isoform b",YES
-Q9N2M2,WBGene00001404,fbp-1,K07A3.1,3,6.1,1.2,7.1,"Fructose-1,6-biphosphatase protein 1",YES
+Q9N2M2,WBGene00001404,fbp-1,K07A3.1,3,6.1,1.2,7.1,"Fructose-1,6-biphosphatase protein 1",NO
 P46563,WBGene00017166,F01F1.12,F01F1.12,2.8,1.9,1.8,4.9,Fructose-bisphosphate aldolase 2,YES
 Q94215,WBGene00002274,lec-11,F38A5.3,4.9,3.3,1.6,6.9,Galectin LEC-11,YES
 Q23426,WBGene00002268,lec-5,ZK1248.16,4.3,6.8,3.3,10.8,Galectin LEC-5,YES
@@ -169,7 +169,7 @@ P17329,WBGene00001684,gpd-2,K10B3.8,3.2,5,2.5,11.4,Glyceraldehyde-3-phosphate de
 Q10039,WBGene00001744,grs-1,T10F2.1,3.3,8.6,2.8,18,Glycyl-tRNA synthetase,YES
 Q18421,WBGene00007927,C34C12.8,C34C12.8,3.9,6.6,1.6,14.3,"GrpE protein homolog, mitochondrial",YES
 O17915,WBGene00004302,ran-1,K01G5.4,2.4,6.7,1.9,12.8,GTP-binding nuclear protein ran-1,YES
-Q21215,WBGene00010556,rack-1,K04D7.1,1.3,1.7,1,4.8,Guanine nucleotide-binding protein subunit beta-2-like 1,YES
+Q21215,WBGene00010556,rack-1,K04D7.1,1.3,1.7,1,4.8,Guanine nucleotide-binding protein subunit beta-2-like 1,NO
 P09446,WBGene00002005,hsp-1,F26D10.3,3.5,9.4,2.3,15.6,Heat shock 70 kDa protein A,YES
 P27420,WBGene00002007,hsp-3,C15H9.6,3,8.8,2.2,13.9,Heat shock 70 kDa protein C,YES
 P20163,WBGene00002008,hsp-4,F43E2.8,3.2,8.9,2.2,15.4,Heat shock 70 kDa protein D,YES
@@ -180,13 +180,13 @@ P02513,WBGene00002019,hsp-16.48,T27E4.3,5.3,6.8,4.4,14.8,Heat shock protein Hsp-
 Q20660,WBGene00002021,hsp-17,F52E1.7,3.9,4.9,2.7,8.5,"Heat shock protein protein 17, isoform a",YES
 Q17849,WBGene00002023,hsp-25,C09B8.6,2.8,2.9,2,3.9,"Heat shock protein protein 25, isoform a",YES
 Q17992,WBGene00002024,hsp-43,C14F11.5,3.2,3.5,3,7.1,"Heat shock protein protein 43, isoform a ",YES
-Q22037,WBGene00001999,hrp-1,F42A6.7,1.7,2.8,0.8,4.5,Heterogeneous nuclear ribonucleoprotein A1,YES
+Q22037,WBGene00001999,hrp-1,F42A6.7,1.7,2.8,0.8,4.5,Heterogeneous nuclear ribonucleoprotein A1,NO
 O01789,WBGene00001860,him-1,F28B3.7,2.5,4.8,3,7,"High incidence of males (Increased x chromosome loss) protein 1, isoform a",YES
-P34183,WBGene00002001,hrs-1,T11G6.1,3,7.4,1.3,8.9,Histidyl-tRNA synthetase,YES
+P34183,WBGene00002001,hrs-1,T11G6.1,3,7.4,1.3,8.9,Histidyl-tRNA synthetase,NO
 P04255,WBGene00001885,his-11,ZK131.5,4.5,5.8,2.1,8.7,Histone H2B 1,YES
 P62784,WBGene00001875,his-1,T10C6.14,3.6,5,2,10.6,Histone H4,YES
 O76447,WBGene00001829,hcp-1,ZK1055.1,2.9,4.2,1.8,6.9,Holocentric chromosome binding protein protein 1,YES
-Q4W5P0,WBGene00022235,sqd-1,Y73B6BL.6,1.2,2.8,1.3,9.1,"Homologous to drosophila sqd (Squid) protein protein 1, isoform b ",YES
+Q4W5P0,WBGene00022235,sqd-1,Y73B6BL.6,1.2,2.8,1.3,9.1,"Homologous to drosophila sqd (Squid) protein protein 1, isoform b ",NO
 P91276,WBGene00002073,ima-2,F26B1.3,3,4.9,3,7.5,Importin subunit alpha-2,YES
 Q9GZH3,WBGene00020682,T22D1.3,T22D1.3,2.6,3.9,2,6.7,Inosine-5'-monophosphate dehydrogenase,YES
 P34446,WBGene00018832,F54F2.1,F54F2.1,2.2,2.2,1.7,5.3,Integrin alpha pat-2,YES
@@ -196,14 +196,14 @@ Q21065,WBGene00002051,ifa-3,F52E10.5,2.6,2.3,2.9,3.9,Intermediate filament prote
 P90900,WBGene00002052,ifa-4,K05B2.3,3.6,3.8,2.7,7.4,Intermediate filament protein ifa-4,YES
 Q19289,WBGene00002053,ifb-1,F10C1.2,3.2,3.3,3.1,8.1,Intermediate filament protein ifb-1,YES
 Q19286,WBGene00002054,ifb-2,F10C1.7,2.6,2.4,1.7,5,Intermediate filament protein ifb-2,YES
-O45168,WBGene00002055,ifc-1,F37B4.2,1.6,1.5,1.3,4.3,Intermediate filament protein ifc-1,YES
-Q21067,WBGene00002056,ifc-2,M6.1,1.7,1.4,1.4,4,Intermediate filament protein ifc-2,YES
+O45168,WBGene00002055,ifc-1,F37B4.2,1.6,1.5,1.3,4.3,Intermediate filament protein ifc-1,NO
+Q21067,WBGene00002056,ifc-2,M6.1,1.7,1.4,1.4,4,Intermediate filament protein ifc-2,NO
 Q86DC6,WBGene00002057,ifd-1,R04E5.10,2.3,2.4,1.7,5.6,Intermediate filament protein ifd-1,YES
 Q19782,WBGene00002058,ifd-2,F25E2.4,3.3,2.5,2.2,6.4,Intermediate filament protein ifd-2,YES
 Q09501,WBGene00002067,ifp-1,C43C3.1,1.8,1.5,1.6,3.9,Intermediate filament protein ifp-1,YES
 Q7Z2A3,WBGene00002056,ifc-2,M6.1,4.6,4.2,2.8,9.8,"Intermediate filament, c protein 2, isoform c ",YES
-Q21926,WBGene00002152,irs-1,R11A8.6,2.7,3.8,1.3,7.5,"Isoleucyl-tRNA synthetase, cytoplasmic",YES
-O44446,WBGene00015326,ivd-1,C02B10.1,1.7,2.6,1.3,4.9,Isovaleryl-CoA dehydrogenase,YES
+Q21926,WBGene00002152,irs-1,R11A8.6,2.7,3.8,1.3,7.5,"Isoleucyl-tRNA synthetase, cytoplasmic",NO
+O44446,WBGene00015326,ivd-1,C02B10.1,1.7,2.6,1.3,4.9,Isovaleryl-CoA dehydrogenase,NO
 A7DT47,WBGene00004130,ketn-1,F54E2.3,3.8,2.1,2.7,5.6,"Kettin (Drosophila actin-binding) homolog protein 1, isoform a",YES
 P34540,WBGene00006840,unc-116,R05D3.7,2.1,3.2,1.7,5.2,Kinesin heavy chain,YES
 Q18026,WBGene00015802,C15H9.7,C15H9.7,1.3,1.5,0.8,4.5,Kynureninase,NO
@@ -211,7 +211,7 @@ Q21443,WBGene00003052,lmn-1,DY3.2,3.8,5.3,3,9.5,Lamin-1,YES
 O44565,WBGene00002247,lam-1,W03F8.5,3.1,2.7,2.2,5,Laminin related. see also lmb-protein 1,YES
 Q18823,WBGene00016913,lam-2,C54D1.5,3.1,2.7,2.1,6.1,Laminin-like protein lam-2,YES
 Q21992,WBGene00020097,larp-1,R144.7,1.7,4.4,2.7,10.4,"Larp (Rna binding la related protein) homolog protein 1, isoform a",YES
-Q9UB28,WBGene00002915,let-805,H19M22.2,1.5,1.9,1.4,4.5,"Lethal protein 805, isoform b",YES
+Q9UB28,WBGene00002915,let-805,H19M22.2,1.5,1.9,1.4,4.5,"Lethal protein 805, isoform b",NO
 Q09996,WBGene00003073,lrs-1,R74.1,2.5,4.4,1.6,14,Leucyl-tRNA synthetase,YES
 P50464,WBGene00006826,unc-97,F14D12.2,2,1.9,1.8,3.6,LIM domain-containing protein unc-97,YES
 Q23081,WBGene00022500,lfi-1,ZC8.4,3.2,2.3,2.5,5.7,"Lin-5 (Five) interacting protein protein 1, isoform a",YES
@@ -221,39 +221,39 @@ O16202,WBGene00003096,lys-7,C02A12.4,6.4,3.9,2.2,8.2,Lysozyme protein 7,YES
 Q09975,WBGene00003097,lys-8,C17G10.5,1.5,3.4,1.8,7.4,Lysozyme protein 8,YES
 Q22099,WBGene00002238,krs-1,T02G5.9,3.3,4.2,2.1,6.6,Lysyl-tRNA synthetase,YES
 Q9U296,WBGene00012983,Y48B6A.12,Y48B6A.12,2.1,3.9,2,9.3,Malic enzyme,YES
-Q19058,WBGene00017123,maoc-1,E04F6.3,1.1,2.1,0.9,4.3,Mao-c-like dehydratase domain protein 1 ,YES
+Q19058,WBGene00017123,maoc-1,E04F6.3,1.1,2.1,0.9,4.3,Mao-c-like dehydratase domain protein 1 ,NO
 Q965Y1,WBGene00003129,map-1,Y37E11AL.7,2.1,3.5,1.6,10.5,Methionine aminopeptidase,YES
 Q20970,WBGene00003415,mrs-1,F58B3.5,3.4,5.1,3.1,9.5,"Methionyl-tRNA synthetase, cytoplasmic",YES
 Q9BKU4,WBGene00004014,phb-1,Y37E3.9,2.2,6.3,1.8,9,Mitochondrial prohibitin complex protein 1,YES
 P50093,WBGene00004015,phb-2,T24H7.1,2.3,8.8,1.6,12.4,Mitochondrial prohibitin complex protein 2,YES
-Q09591,WBGene00003367,mix-1,M106.1,N/A,5.6,1,14.3,Mitotic chromosome and X-chromosome-associated protein mix-1,YES
+Q09591,WBGene00003367,mix-1,M106.1,N/A,5.6,1,14.3,Mitotic chromosome and X-chromosome-associated protein mix-1,NO
 O01761,WBGene00006820,unc-89,C09D1.1,2.3,1.8,1.8,4.2,Muscle M-line assembly protein unc-89,YES
-Q21281,WBGene00003497,mup-4,K07D8.1,2.1,3.4,1,4.3,Muscle positioning protein 4,YES
-P19625,WBGene00003369,mlc-1,C36E6.3,1.5,2.4,1,5.4,Myosin regulatory light chain 1,YES
-P19626,WBGene00003370,mlc-2,C36E6.5,1.5,2.4,1,5.5,Myosin regulatory light chain 2,YES
+Q21281,WBGene00003497,mup-4,K07D8.1,2.1,3.4,1,4.3,Muscle positioning protein 4,NO
+P19625,WBGene00003369,mlc-1,C36E6.3,1.5,2.4,1,5.4,Myosin regulatory light chain 1,NO
+P19626,WBGene00003370,mlc-2,C36E6.5,1.5,2.4,1,5.5,Myosin regulatory light chain 2,NO
 P02567,WBGene00002348,let-75,R06C7.10,2,1.9,1.8,4,Myosin-1,YES
 P12845,WBGene00003514,myo-2,T18D3.4,1.9,1.9,1.7,4.2,Myosin-2,YES
-P12844,WBGene00003515,myo-3,K12F2.1,1.9,1.6,1.3,4.4,Myosin-3,YES
+P12844,WBGene00003515,myo-3,K12F2.1,1.9,1.6,1.3,4.4,Myosin-3,NO
 P02566,WBGene00006789,unc-54,F11C3.3,1.5,1.3,1,3.7,Myosin-4,NO
 Q9N4Y8,WBGene00021562,nuo-5,Y45G12B.1,1.8,3.1,1.1,5.4,NADH-ubiquinone oxidoreductase 75 kDa subunit,YES
 Q86S66,WBGene00022042,Y65B4BR.5,Y65B4BR.5,2.4,8.2,1.8,14,Nascent polypeptide-associated complex subunit alpha,YES
 Q21568,WBGene00010896,M28.5,M28.5,2.4,5.8,2.4,9.6,NHP2-like protein 1 homolog,YES
 Q20641,WBGene00003776,nmy-1,F52B10.1,2.4,2.7,1.7,6.7,Non-muscle myosin protein 1,YES
-Q9N4A7,WBGene00003806,npp-20,Y77E11A.13,1.6,3.4,1.3,10.1,"Nuclear pore complex protein protein 20, isoform a ",YES
+Q9N4A7,WBGene00003806,npp-20,Y77E11A.13,1.6,3.4,1.3,10.1,"Nuclear pore complex protein protein 20, isoform a ",NO
 Q93576,WBGene00009119,F25H2.5,F25H2.5,1.5,2.8,1.7,7.1,Nucleoside diphosphate kinase,YES
-Q23359,WBGene00003865,oma-2,ZC513.6,2.9,4,1.3,4.2,Oocyte maturation defective protein 2 ,YES
+Q23359,WBGene00003865,oma-2,ZC513.6,2.9,4,1.3,4.2,Oocyte maturation defective protein 2 ,NO
 O76840,WBGene00016498,ppn-1,C37C3.6,2.3,2.1,2.8,3.7,Papilin,YES
 P91328,WBGene00003934,pat-10,F54C1.7,0.4,0.6,0.3,5,Paralysed arrest at two-fold protein 10,NO
 O16785,WBGene00003932,pat-6,T21D12.4,1.7,2.9,1.8,8.3,Paralyzed arrest at two-fold protein 6,YES
-P10567,WBGene00006754,unc-15,F07A5.7,1.8,1.3,1.3,4.7,Paramyosin,YES
+P10567,WBGene00006754,unc-15,F07A5.7,1.8,1.3,1.3,4.7,Paramyosin,NO
 Q19573,WBGene00003981,pes-8,F18G5.2,3,2.9,2.4,7.1,Patterned expression site protein 8,YES
 P52009,WBGene00000877,cyn-1,Y49A3A.5,2.1,4.9,2.5,8.7,Peptidyl-prolyl cis-trans isomerase 1,YES
 P52011,WBGene00000879,cyn-3,Y75B12B.5,1.9,6.6,1.8,10.3,Peptidyl-prolyl cis-trans isomerase 3,YES
 P52015,WBGene00000883,cyn-7,Y75B12B.2,2.1,7.5,1.8,12.7,Peptidyl-prolyl cis-trans isomerase 7,YES
 A8DYR6,WBGene00006434,prdx-2,F09E5.15,2.7,6,2.2,8.5,"Peroxiredoxin protein 2, isoform b",YES
-Q19713,WBGene00001498,frs-2,F22B5.9,1.8,3.8,1.3,8.1,Phenylalanyl-tRNA synthetase beta chain,YES
-P40614,WBGene00008505,F01G4.6,F01G4.6,1.6,5,1.4,20,"Phosphate carrier protein, mitochondrial",YES
-Q86NC1,WBGene00020696,T22F3.3,T22F3.3,1.6,4,0.9,7.3,Phosphorylase,YES
+Q19713,WBGene00001498,frs-2,F22B5.9,1.8,3.8,1.3,8.1,Phenylalanyl-tRNA synthetase beta chain,NO
+P40614,WBGene00008505,F01G4.6,F01G4.6,1.6,5,1.4,20,"Phosphate carrier protein, mitochondrial",NO
+Q86NC1,WBGene00020696,T22F3.3,T22F3.3,1.6,4,0.9,7.3,Phosphorylase,NO
 B3GWA1,WBGene00017778,F25B5.7,F25B5.7,3.5,3.3,2,8.1,"Polypyrimidine-tract-binding protein (Ptb)-associated-splicing factor homolog protein 1, isoform a ",YES
 O02143,WBGene00004112,pqn-22,C46G7.4,1.7,1.8,1.8,3.3,"Prion-like-(Q/n-rich)-domain-bearing protein protein 22, isoform a",YES
 Q19662,WBGene00004119,pqn-31,F21C10.8,3.7,4.1,3.3,5.7,"Prion-like-(Q/n-rich)-domain-bearing protein protein 31, isoform a",YES
@@ -263,80 +263,80 @@ O17071,WBGene00004504,rpt-4,F23F1.8,2.5,6.1,2.1,9.9,Probable 26S protease regula
 Q23629,WBGene00014098,ZK836.2,ZK836.2,2.2,2.2,1.7,4.8,"Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1 homolog, mitochondrial",YES
 Q21217,WBGene00001794,gta-1,K04D7.3,1.3,1.5,1.1,4.1,"Probable 4-aminobutyrate aminotransferase, mitochondrial",NO
 P34455,WBGene00000041,aco-2,F54H12.1,2.2,5.1,1.8,8.9,"Probable aconitate hydratase, mitochondrial",YES
-Q8WTM6,WBGene00021170,arx-4,Y6D11A.2,1.7,3.7,1.4,11.9,Probable actin-related protein 2/3 complex subunit 2,YES
-P91134,WBGene00016509,C37H5.6,C37H5.6,1.4,4.5,1.1,10.1,Probable adenylosuccinate synthetase,YES
+Q8WTM6,WBGene00021170,arx-4,Y6D11A.2,1.7,3.7,1.4,11.9,Probable actin-related protein 2/3 complex subunit 2,NO
+P91134,WBGene00016509,C37H5.6,C37H5.6,1.4,4.5,1.1,10.1,Probable adenylosuccinate synthetase,NO
 Q10454,WBGene00018519,F46H5.3,F46H5.3,0.8,1.1,0.7,3.3,Probable arginine kinase F46H5.3,NO
 Q27535,WBGene00013894,ZC434.8,ZC434.8,2.1,4.4,2.1,6.6,Probable arginine kinase ZC434.8,YES
 Q19825,WBGene00004679,rrt-1,F26F4.10,2.4,7.1,2.2,8.1,"Probable arginyl-tRNA synthetase, cytoplasmic",YES
 P53585,WBGene00016995,D1005.1,D1005.1,2,4.5,1.7,8.1,Probable ATP-citrate synthase,YES
-P34575,WBGene00000833,cts-1,T20G5.2,1.8,4.6,1,5.8,"Probable citrate synthase, mitochondrial",YES
-P34574,WBGene00011867,chc-1,T20G5.1,2.6,3.4,1.4,7.1,Probable clathrin heavy chain 1,YES
-Q09236,WBGene00015734,C13B9.3,C13B9.3,1.7,3.8,1.4,7.5,Probable coatomer subunit delta,YES
-Q22498,WBGene00011775,T14G10.5,T14G10.5,N/A,5.8,2.2,7.9,Probable coatomer subunit gamma,YES
+P34575,WBGene00000833,cts-1,T20G5.2,1.8,4.6,1,5.8,"Probable citrate synthase, mitochondrial",NO
+P34574,WBGene00011867,chc-1,T20G5.1,2.6,3.4,1.4,7.1,Probable clathrin heavy chain 1,NO
+Q09236,WBGene00015734,C13B9.3,C13B9.3,1.7,3.8,1.4,7.5,Probable coatomer subunit delta,NO
+Q22498,WBGene00011775,T14G10.5,T14G10.5,N/A,5.8,2.2,7.9,Probable coatomer subunit gamma,NO
 Q23670,WBGene00010785,K12D12.1,K12D12.1,2.4,9.9,1.9,8.6,Probable DNA topoisomerase 2,YES
 Q21557,WBGene00010888,dlc-2,M18.2,2.2,2.5,1.9,6.3,"Probable dynein light chain 2, cytoplasmic",YES
 Q93615,WBGene00009187,F27D4.1,F27D4.1,3.1,10.4,2,14.7,"Probable electron transfer flavoprotein subunit alpha, mitochondrial",YES
 P34460,WBGene00018846,F54H12.6,F54H12.6,2.8,9,2.3,19.8,Probable elongation factor 1-beta/1-delta 1,YES
 Q9U2H9,WBGene00012768,Y41E3.10,Y41E3.10,2.6,8.3,2.4,14.7,Probable elongation factor 1-beta/1-delta 2,YES
 P54412,WBGene00008920,F17C11.9,F17C11.9,2.9,7.1,2.4,12.2,Probable elongation factor 1-gamma,YES
-P34559,WBGene00001155,ech-6,T05G5.6,1.5,2.4,0.5,3.9,"Probable enoyl-CoA hydratase, mitochondrial",YES
+P34559,WBGene00001155,ech-6,T05G5.6,1.5,2.4,0.5,3.9,"Probable enoyl-CoA hydratase, mitochondrial",NO
 O17214,WBGene00001503,fum-1,H14A12.2,2,8.7,1.8,12.6,"Probable fumarate hydratase, mitochondrial",YES
 O62431,WBGene00001336,ers-1,Y41E3.4,2.7,5.8,2.1,13.5,Probable glutaminyl-tRNA synthetase,YES
 P91253,WBGene00001755,gst-7,F11G11.2,1.9,10.8,1.6,14.1,Probable glutathione S-transferase 7,YES
-Q9U2D9,WBGene00001793,gsy-1,Y46G5A.31,1.8,2.6,1.2,4.8,Probable glycogen [starch] synthase,YES
+Q9U2D9,WBGene00001793,gsy-1,Y46G5A.31,1.8,2.6,1.2,4.8,Probable glycogen [starch] synthase,NO
 O16294,WBGene00017984,F32D1.5,F32D1.5,3.2,8.4,1.5,11,Probable GMP reductase,YES
 P90916,WBGene00003036,lin-53,K07A1.12,2.8,3.8,1.5,5.7,Probable histone-binding protein lin-53,YES
 Q9U2M4,WBGene00012608,Y38F1A.6,Y38F1A.6,1.2,1.1,1.5,5.5,"Probable hydroxyacid-oxoacid transhydrogenase, mitochondrial",NO
-Q93714,WBGene00009664,F43G9.1,F43G9.1,1.6,2.4,1.1,5.5,"Probable isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",YES
-Q93353,WBGene00007993,C37E2.1,C37E2.1,1,2.6,1,4.7,"Probable isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",YES
-O02640,WBGene00003162,mdh-1,F20H11.3,1.9,6.3,1.4,12,"Probable malate dehydrogenase, mitochondrial",YES
-Q22347,WBGene00020366,T08G2.3,T08G2.3,2.1,5.7,1.2,9.4,"Probable medium-chain specific acyl-CoA dehydrogenase, mitochondrial",YES
+Q93714,WBGene00009664,F43G9.1,F43G9.1,1.6,2.4,1.1,5.5,"Probable isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",NO
+Q93353,WBGene00007993,C37E2.1,C37E2.1,1,2.6,1,4.7,"Probable isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",NO
+O02640,WBGene00003162,mdh-1,F20H11.3,1.9,6.3,1.4,12,"Probable malate dehydrogenase, mitochondrial",NO
+Q22347,WBGene00020366,T08G2.3,T08G2.3,2.1,5.7,1.2,9.4,"Probable medium-chain specific acyl-CoA dehydrogenase, mitochondrial",NO
 P34385,WBGene00008514,F02A9.4,F02A9.4,1.9,4.4,1.7,7.9,"Probable methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",YES
-P52713,WBGene00000114,alh-8,F13D12.4,1.5,1.6,1.1,5,"Probable methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial",YES
+P52713,WBGene00000114,alh-8,F13D12.4,1.5,1.6,1.1,5,"Probable methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial",NO
 Q23381,WBGene00014202,mmcm-1,ZK1058.1,2,3.7,1.5,6,"Probable methylmalonyl-CoA mutase, mitochondrial",YES
 O02161,WBGene00020383,T09B4.9,T09B4.9,1.9,4,1.5,11.5,Probable mitochondrial import inner membrane translocase subunit tim-44,YES
-Q09510,WBGene00003372,mlc-4,C56G7.1,2.2,5.4,1.1,13,Probable myosin regulatory light chain,YES
-Q18359,WBGene00007880,C33A12.1,C33A12.1,1,3.7,1,7.6,Probable NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5,YES
-Q93873,WBGene00001520,gas-1,K09A9.5,1.9,3.1,0.6,9.3,"Probable NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",YES
+Q09510,WBGene00003372,mlc-4,C56G7.1,2.2,5.4,1.1,13,Probable myosin regulatory light chain,NO
+Q18359,WBGene00007880,C33A12.1,C33A12.1,1,3.7,1,7.6,Probable NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5,NO
+Q93873,WBGene00001520,gas-1,K09A9.5,1.9,3.1,0.6,9.3,"Probable NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",NO
 Q21735,WBGene00004305,ran-4,R05D11.3,2.8,12,1.9,12.7,Probable nuclear transport factor 2,YES
 Q18040,WBGene00015814,C16A3.10,C16A3.10,1.9,3.1,1.6,6.8,"Probable ornithine aminotransferase, mitochondrial",YES
 Q21824,WBGene00011110,prdx-3,R07E5.2,2.9,8.1,1.9,12.5,Probable peroxiredoxin prdx-3,YES
-P91427,WBGene00020185,pgk-1,T03F1.3,1.6,4.2,1.4,10.5,Probable phosphoglycerate kinase,YES
-Q21993,WBGene00020112,pfd-5,R151.9,0.8,8.2,1.8,8.2,Probable prefoldin subunit 5,YES
-P49595,WBGene00018362,F42G9.1,F42G9.1,3.9,6.9,1.2,9.3,Probable protein phosphatase 2C F42G9.1,YES
+P91427,WBGene00020185,pgk-1,T03F1.3,1.6,4.2,1.4,10.5,Probable phosphoglycerate kinase,NO
+Q21993,WBGene00020112,pfd-5,R151.9,0.8,8.2,1.8,8.2,Probable prefoldin subunit 5,NO
+P49595,WBGene00018362,F42G9.1,F42G9.1,3.9,6.9,1.2,9.3,Probable protein phosphatase 2C F42G9.1,NO
 P49596,WBGene00011953,T23F11.1,T23F11.1,1.5,2.1,1.5,5.5,Probable protein phosphatase 2C T23F11.1,YES
-P52899,WBGene00011510,T05H10.6,T05H10.6,0.9,4.6,1.8,11.1,"Probable pyruvate dehydrogenase E1 component subunit alpha, mitochondrial",YES
+P52899,WBGene00011510,T05H10.6,T05H10.6,0.9,4.6,1.8,11.1,"Probable pyruvate dehydrogenase E1 component subunit alpha, mitochondrial",NO
 Q19537,WBGene00017546,rpa-1,F18A1.5,3.2,6.4,2.5,9.5,Probable replication factor A 73 kDa subunit,YES
 O17680,WBGene00008205,sams-1,C49F5.1,0.7,1.5,0.6,2.6,Probable S-adenosylmethionine synthetase 1,NO
-P50306,WBGene00015540,C06E7.3,C06E7.3,1,1.9,0.9,4.2,Probable S-adenosylmethionine synthetase 4,YES
+P50306,WBGene00015540,C06E7.3,C06E7.3,1,1.9,0.9,4.2,Probable S-adenosylmethionine synthetase 4,NO
 Q09543,WBGene00003901,paa-1,F48E8.5,1.9,4.9,1.9,10.3,Probable serine/threonine-protein phosphatase PP2A regulatory subunit,YES
 Q18678,WBGene00005663,srs-2,C47E12.1,1.6,7.9,1.9,11.7,"Probable seryl-tRNA synthetase, cytoplasmic",YES
-Q23121,WBGene00004698,rsp-1,W02B12.3,1.9,2.1,1.4,7.5,"Probable splicing factor, arginine/serine-rich 1",YES
-Q9NEW6,WBGene00004700,rsp-3,Y111B2A.18,1.1,2.5,1.2,4.4,"Probable splicing factor, arginine/serine-rich 3",YES
-P53588,WBGene00009812,F47B10.1,F47B10.1,1,2,0.9,4,"Probable succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial",YES
-P53596,WBGene00007350,C05G5.4,C05G5.4,1.4,1.9,1.7,6.2,"Probable succinyl-CoA ligase [GDP-forming] subunit alpha, mitochondrial",YES
-P53589,WBGene00016844,C50F7.4,C50F7.4,1.8,4.6,0.9,10.6,"Probable succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial",YES
+Q23121,WBGene00004698,rsp-1,W02B12.3,1.9,2.1,1.4,7.5,"Probable splicing factor, arginine/serine-rich 1",NO
+Q9NEW6,WBGene00004700,rsp-3,Y111B2A.18,1.1,2.5,1.2,4.4,"Probable splicing factor, arginine/serine-rich 3",NO
+P53588,WBGene00009812,F47B10.1,F47B10.1,1,2,0.9,4,"Probable succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial",NO
+P53596,WBGene00007350,C05G5.4,C05G5.4,1.4,1.9,1.7,6.2,"Probable succinyl-CoA ligase [GDP-forming] subunit alpha, mitochondrial",NO
+P53589,WBGene00016844,C50F7.4,C50F7.4,1.8,4.6,0.9,10.6,"Probable succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial",NO
 Q09450,WBGene00007330,C05C10.3,C05C10.3,1.1,1.4,1,6.1,"Probable succinyl-CoA:3-ketoacid-coenzyme A transferase, mitochondrial",NO
-Q21752,WBGene00019900,R05G6.7,R05G6.7,2.1,6.2,1.3,15.8,Probable voltage-dependent anion-selective channel,YES
-P30628,WBGene00006768,unc-32,ZK637.8,N/A,3.5,4.4,9.2,Probable V-type proton ATPase 116 kDa subunit a,YES
-Q19626,WBGene00006921,vha-12,F20B6.2,1.6,3.3,1.4,5.3,Probable V-type proton ATPase subunit B,YES
-Q22494,WBGene00020507,vha-15,T14F9.1,1.1,2.3,0.5,2.9,Probable V-type proton ATPase subunit H 2,YES
+Q21752,WBGene00019900,R05G6.7,R05G6.7,2.1,6.2,1.3,15.8,Probable voltage-dependent anion-selective channel,NO
+P30628,WBGene00006768,unc-32,ZK637.8,N/A,3.5,4.4,9.2,Probable V-type proton ATPase 116 kDa subunit a,NO
+Q19626,WBGene00006921,vha-12,F20B6.2,1.6,3.3,1.4,5.3,Probable V-type proton ATPase subunit B,NO
+Q22494,WBGene00020507,vha-15,T14F9.1,1.1,2.3,0.5,2.9,Probable V-type proton ATPase subunit H 2,NO
 Q9XW16,WBGene00003989,pfn-1,Y18D10A.20,3.3,6.4,2.3,10.3,Profilin-1,YES
-O02115,WBGene00003955,pcn-1,W03D2.4,2.8,9.7,1.4,13.6,Proliferating cell nuclear antigen,YES
+O02115,WBGene00003955,pcn-1,W03D2.4,2.8,9.7,1.4,13.6,Proliferating cell nuclear antigen,NO
 Q22620,WBGene00004189,prs-1,T20H4.3,2.4,6.3,2.2,10.8,"Prolyl trna synthetase protein 1, isoform a",YES
-Q19842,WBGene00017864,pcca-1,F27D9.5,1.9,3.3,1.2,8.3,"Propionyl-CoA carboxylase alpha chain, mitochondrial",YES
-O76371,WBGene00004505,rpt-5,F56H1.4,2.9,8.8,1.4,16.1,"Proteasome regulatory particle, atpase-like protein 5",YES
+Q19842,WBGene00017864,pcca-1,F27D9.5,1.9,3.3,1.2,8.3,"Propionyl-CoA carboxylase alpha chain, mitochondrial",NO
+O76371,WBGene00004505,rpt-5,F56H1.4,2.9,8.8,1.4,16.1,"Proteasome regulatory particle, atpase-like protein 5",NO
 Q9GZH5,WBGene00004458,rpn-1,T22D1.9,2.2,7,1.8,8.3,"Proteasome regulatory particle, non-atpase-like protein 1",YES
-O61742,WBGene00004466,rpn-10,B0205.3,1.4,3.4,1.4,10.8,"Proteasome regulatory particle, non-atpase-like protein 10",YES
-Q19324,WBGene00004461,rpn-5,F10G7.8,N/A,17.1,1.6,15.9,"Proteasome regulatory particle, non-atpase-like protein 5",YES
+O61742,WBGene00004466,rpn-10,B0205.3,1.4,3.4,1.4,10.8,"Proteasome regulatory particle, non-atpase-like protein 10",NO
+Q19324,WBGene00004461,rpn-5,F10G7.8,N/A,17.1,1.6,15.9,"Proteasome regulatory particle, non-atpase-like protein 5",NO
 Q20938,WBGene00004462,rpn-6,F57B9.10,4.1,10.6,1.6,15.8,"Proteasome regulatory particle, non-atpase-like protein 6, isoform a ",YES
 O61792,WBGene00004464,rpn-8,R12E2.3,2.7,8.4,3.1,15,"Proteasome regulatory particle, non-atpase-like protein 8",YES
-Q27488,WBGene00003923,pas-2,D1054.2,N/A,5.5,1.8,12.7,Proteasome subunit alpha type-2,YES
-Q09583,WBGene00003928,pas-7,ZK945.2,N/A,6.1,1.7,7.7,Proteasome subunit alpha type-3,YES
+Q27488,WBGene00003923,pas-2,D1054.2,N/A,5.5,1.8,12.7,Proteasome subunit alpha type-2,NO
+Q09583,WBGene00003928,pas-7,ZK945.2,N/A,6.1,1.7,7.7,Proteasome subunit alpha type-3,NO
 Q95008,WBGene00003926,pas-5,F25H2.9,3.1,4.4,1.9,8.8,Proteasome subunit alpha type-5,YES
-O17586,WBGene00003922,pas-1,C15H11.7,2.7,5.1,1,5.8,Proteasome subunit alpha type-6,YES
+O17586,WBGene00003922,pas-1,C15H11.7,2.7,5.1,1,5.8,Proteasome subunit alpha type-6,NO
 Q95005,WBGene00003925,pas-4,C36B1.4,1.6,5,1.5,8.5,Proteasome subunit alpha type-7,YES
-O62102,WBGene00003948,pbs-2,C47B2.4,2.3,5.6,1,14.1,Proteasome subunit beta type,YES
+O62102,WBGene00003948,pbs-2,C47B2.4,2.3,5.6,1,14.1,Proteasome subunit beta type,NO
 P90731,WBGene00007150,B0365.1,B0365.1,2.2,5.8,1.7,9.6,Protein B0365.1 ,YES
 P90735,WBGene00001137,eat-6,B0365.3,2,3.4,2.2,5.8,Protein B0365.3 ,YES
 Q9XU45,WBGene00007155,B0379.1,B0379.1,1.5,2.6,1.8,5.3,Protein B0379.1a ,YES
@@ -344,176 +344,176 @@ O45227,WBGene00007196,B0513.4,B0513.4,5.2,10.1,1.8,8.5,Protein B0513.4 ,YES
 Q93168,WBGene00007235,C01G10.8,C01G10.8,1.9,3.6,1.7,10.7,Protein C01G10.8 ,YES
 Q17625,WBGene00007295,C04C11.1,C04C11.1,2.8,3.8,2.1,7.3,Protein C04C11.1a ,YES
 Q9XVE9,WBGene00004426,rpl-14,C04F12.4,1.8,5.7,1.8,13.7,Protein C04F12.4 ,YES
-Q17763,WBGene00007385,atp-5,C06H2.1,1.8,5.2,1.4,10.1,Protein C06H2.1 ,YES
-Q17832,WBGene00007463,C08H9.2,C08H9.2,1,2,0.8,4.9,Protein C08H9.2a ,YES
+Q17763,WBGene00007385,atp-5,C06H2.1,1.8,5.2,1.4,10.1,Protein C06H2.1 ,NO
+Q17832,WBGene00007463,C08H9.2,C08H9.2,1,2,0.8,4.9,Protein C08H9.2a ,NO
 Q17877,WBGene00003864,oma-1,C09G9.6,4,3.6,2.7,12.2,Protein C09G9.6 ,YES
-Q17886,WBGene00007500,nasp-1,C09H10.6,2.2,7.5,N/A,22.2,Protein C09H10.6 ,YES
-Q9XTZ2,WBGene00004705,rsp-8,C18D11.4,2.5,2.2,1,3.1,Protein C18D11.4 ,YES
+Q17886,WBGene00007500,nasp-1,C09H10.6,2.2,7.5,N/A,22.2,Protein C09H10.6 ,NO
+Q9XTZ2,WBGene00004705,rsp-8,C18D11.4,2.5,2.2,1,3.1,Protein C18D11.4 ,NO
 Q9XVR7,WBGene00003155,mcm-3,C25D7.6,2.7,5.2,1.8,10.3,Protein C25D7.6 ,YES
 Q18244,WBGene00007762,C27B7.5,C27B7.5,3.4,1.9,1.9,4.5,Protein C27B7.5 ,YES
 O17607,WBGene00007784,ruvb-1,C27H6.2,2.2,3.7,2,8,Protein C27H6.2 ,YES
-B2D6P1,WBGene00007786,C27H6.4,C27H6.4,1.8,7.4,1.4,9.7,Protein C27H6.4c ,YES
+B2D6P1,WBGene00007786,C27H6.4,C27H6.4,1.8,7.4,1.4,9.7,Protein C27H6.4c ,NO
 O02225,WBGene00001607,gln-6,C28D4.3,3.1,4.6,2.1,8,Protein C28D4.3 ,YES
 A3QMC5,WBGene00004448,rpl-34,C42C1.14,2.5,9.4,1.8,11.9,Protein C42C1.14 ,YES
 A4UVK2,WBGene00008089,C44C10.9,C44C10.9,2,3.3,1.8,8.5,Protein C44C10.9b ,YES
 Q18625,WBGene00002267,lec-4,C44F1.3,3.2,2.1,2.5,4.3,Protein C44F1.3 ,YES
 Q9U3M0,WBGene00008113,C46C2.5,C46C2.5,2,9.4,2.1,14.8,Protein C46C2.5 ,YES
 O17687,WBGene00008218,nasp-2,C50B6.2,3.5,5.2,2.2,8.9,Protein C50B6.2 ,YES
-Q18817,WBGene00000248,ben-1,C54C6.2,1.3,3.6,1.1,8.4,Protein C54C6.2 ,YES
+Q18817,WBGene00000248,ben-1,C54C6.2,1.3,3.6,1.1,8.4,Protein C54C6.2 ,NO
 Q18943,WBGene00008377,D1054.10,D1054.10,4.1,7.4,2.3,13.9,Protein D1054.10 ,YES
 Q18947,WBGene00008378,D1054.11,D1054.11,3.2,6.2,2.1,9,Protein D1054.11 ,YES
 B1Q273,WBGene00044080,D1086.10,D1086.10,2.7,10.7,2.2,8,Protein D1086.10c ,YES
 P90788,WBGene00008412,D2030.2,D2030.2,3.2,2.6,2,5.7,Protein D2030.2a ,YES
 Q17967,WBGene00003962,pdi-1,C14B1.1,2.3,11.3,1.9,13.8,Protein disulfide-isomerase 1,YES
-Q17770,WBGene00003963,pdi-2,C07A12.4,1.5,4.9,1.3,6.2,Protein disulfide-isomerase 2,YES
+Q17770,WBGene00003963,pdi-2,C07A12.4,1.5,4.9,1.3,6.2,Protein disulfide-isomerase 2,NO
 O17759,WBGene00008506,F01G10.1,F01G10.1,2.6,6.3,1.7,9.7,Protein F01G10.1 ,YES
-Q19102,WBGene00000181,ard-1,F01G4.2,1.8,2.7,1.4,9.5,Protein F01G4.2 ,YES
+Q19102,WBGene00000181,ard-1,F01G4.2,1.8,2.7,1.4,9.5,Protein F01G4.2 ,NO
 Q19130,WBGene00008546,F07A11.2,F07A11.2,1.7,2.8,1.6,5.5,Protein F07A11.2a ,YES
 Q067X2,WBGene00045038,F13G11.3,F13G11.3,3.3,6,2.2,14.1,Protein F13G11.3 ,YES
 Q19554,WBGene00006512,abcf-1,F18E2.2,2.9,5.8,1.7,9.9,Protein F18E2.2 ,YES
-Q19579,WBGene00003903,pab-2,F18H3.3,2.4,2.9,0.7,6,Protein F18H3.3a ,YES
-Q19581,WBGene00003903,pab-2,F18H3.3,2.2,2.6,0.7,6,Protein F18H3.3b ,YES
+Q19579,WBGene00003903,pab-2,F18H3.3,2.4,2.9,0.7,6,Protein F18H3.3a ,NO
+Q19581,WBGene00003903,pab-2,F18H3.3,2.2,2.6,0.7,6,Protein F18H3.3b ,NO
 Q93535,WBGene00008975,F20D1.3,F20D1.3,8,6.7,1.6,10.8,Protein F20D1.3 ,YES
 Q19658,WBGene00003777,nmy-2,F20G4.3,2.4,3.9,1.9,7.1,Protein F20G4.3 ,YES
 Q19680,WBGene00009006,F21D5.1,F21D5.1,3.1,5.2,1.5,7.9,Protein F21D5.1 ,YES
 Q19699,WBGene00009035,F22B3.4,F22B3.4,2.1,2.9,2.3,8.5,Protein F22B3.4 ,YES
 O61442,WBGene00006994,zyg-9,F22B5.7,2.6,6.8,1.6,10.7,Protein F22B5.7 ,YES
 A8WHR6,WBGene00006460,tag-93,F25D1.1,1.7,5.1,1.8,9.6,Protein F25D1.1c ,YES
-A9UJN7,WBGene00009113,F25D7.4,F25D7.4,2.9,5.8,N/A,5.5,Protein F25D7.4b ,YES
+A9UJN7,WBGene00009113,F25D7.4,F25D7.4,2.9,5.8,N/A,5.5,Protein F25D7.4b ,NO
 Q9XVU2,WBGene00001606,gln-5,F26D10.10,2.2,6.8,1.8,7.6,Protein F26D10.10 ,YES
-Q93619,WBGene00006518,tag-173,F27D4.5,1.5,2.2,0.9,5.5,Protein F27D4.5 ,YES
+Q93619,WBGene00006518,tag-173,F27D4.5,1.5,2.2,0.9,5.5,Protein F27D4.5 ,NO
 Q6A2D2,WBGene00009259,F29G6.3,F29G6.3,3.2,2.6,2.3,8.1,Protein F29G6.3c ,YES
-Q9XVP9,WBGene00006061,stl-1,F30A10.5,1.9,3.2,1.4,12.1,Protein F30A10.5 ,YES
+Q9XVP9,WBGene00006061,stl-1,F30A10.5,1.9,3.2,1.4,12.1,Protein F30A10.5 ,NO
 O45418,WBGene00001431,fkb-6,F31D4.3,2.5,5.4,2.5,9,Protein F31D4.3 ,YES
-O45430,WBGene00009319,F32B6.2,F32B6.2,1.9,3.6,1.3,6.2,Protein F32B6.2 ,YES
-P91871,WBGene00009342,fasn-1,F32H2.5,2.8,2.6,1.3,6,Protein F32H2.5 ,YES
-Q20053,WBGene00000206,asb-1,F35G12.10,2.8,10.3,1.3,6.9,Protein F35G12.10 ,YES
+O45430,WBGene00009319,F32B6.2,F32B6.2,1.9,3.6,1.3,6.2,Protein F32B6.2 ,NO
+P91871,WBGene00009342,fasn-1,F32H2.5,2.8,2.6,1.3,6,Protein F32H2.5 ,NO
+Q20053,WBGene00000206,asb-1,F35G12.10,2.8,10.3,1.3,6.9,Protein F35G12.10 ,NO
 Q20058,WBGene00009445,F35G12.12,F35G12.12,2.4,5.1,2.4,12.7,Protein F35G12.12 ,YES
-O44400,WBGene00018145,F37C4.5,F37C4.5,2.1,3,1.3,5.8,Protein F37C4.5,YES
+O44400,WBGene00018145,F37C4.5,F37C4.5,2.1,3,1.3,5.8,Protein F37C4.5,NO
 Q0G822,WBGene00002050,ifa-1,F38B2.1,3.2,2.9,2.5,7.4,Protein F38B2.1c ,YES
-O45502,WBGene00001030,dnj-12,F39B2.10,2.9,3.8,N/A,5.9,Protein F39B2.10 ,YES
-Q20206,WBGene00004480,rps-11,F40F11.1,2.4,5.8,1.4,8.5,Protein F40F11.1 ,YES
+O45502,WBGene00001030,dnj-12,F39B2.10,2.9,3.8,N/A,5.9,Protein F39B2.10 ,NO
+Q20206,WBGene00004480,rps-11,F40F11.1,2.4,5.8,1.4,8.5,Protein F40F11.1 ,NO
 Q93713,WBGene00000777,cpn-1,F43G9.9,3.4,3.8,1.7,11.8,Protein F43G9.9 ,YES
-Q20409,WBGene00006530,tba-4,F44F4.11,1.4,2.5,1,6,Protein F44F4.11 ,YES
+Q20409,WBGene00006530,tba-4,F44F4.11,1.4,2.5,1,6,Protein F44F4.11 ,NO
 Q20616,WBGene00009897,F49E12.1,F49E12.1,3.4,3.8,2.3,8.4,Protein F49E12.1 ,YES
 Q95ZT1,WBGene00001502,ftt-2,F52D10.3,2.6,9.3,1.9,15,Protein F52D10.3b ,YES
 Q20684,WBGene00002265,lec-2,F52H3.7,2.8,5.6,1.6,8.5,Protein F52H3.7a ,YES
 O45552,WBGene00009952,F53A2.7,F53A2.7,2.1,4.5,1.7,9.1,Protein F53A2.7 ,YES
-P91997,WBGene00009980,F53F1.2,F53F1.2,1.2,2.3,1.4,5.8,Protein F53F1.2 ,YES
-Q20748,WBGene00010015,F54B3.3,F54B3.3,1.8,6.2,1.2,16.5,Protein F54B3.3 ,YES
-Q20777,WBGene00010055,F54D5.12,F54D5.12,1.6,1.5,0.9,7.9,Protein F54D5.12 ,YES
+P91997,WBGene00009980,F53F1.2,F53F1.2,1.2,2.3,1.4,5.8,Protein F53F1.2 ,NO
+Q20748,WBGene00010015,F54B3.3,F54B3.3,1.8,6.2,1.2,16.5,Protein F54B3.3 ,NO
+Q20777,WBGene00010055,F54D5.12,F54D5.12,1.6,1.5,0.9,7.9,Protein F54D5.12 ,NO
 Q20790,WBGene00010065,F54F7.3,F54F7.3,2.9,12.4,3.7,10.7,Protein F54F7.3 ,YES
 O17891,WBGene00010084,F55B11.2,F55B11.2,2.5,9.1,1.9,13.6,Protein F55B11.2 ,YES
 O17893,WBGene00010085,F55B11.3,F55B11.3,2.3,4.4,1.5,8.4,Protein F55B11.3 ,YES
 O17890,WBGene00010086,F55B11.4,F55B11.4,8,2.4,4.7,5.7,Protein F55B11.4 ,YES
 Q93809,WBGene00010234,F58B3.9,F58B3.9,2.7,3.4,2.2,5.4,Protein F58B3.9 ,YES
 Q9NLD1,WBGene00002000,hrp-2,F58D5.1,4.5,5.2,1.9,8.5,Protein F58D5.1a ,YES
-P90897,WBGene00010280,F58G11.2,F58G11.2,2.3,3.9,1.1,6.2,Protein F58G11.2 ,YES
+P90897,WBGene00010280,F58G11.2,F58G11.2,2.3,3.9,1.1,6.2,Protein F58G11.2 ,NO
 Q21021,WBGene00003795,npp-9,F59A2.1,2.5,5.2,2.1,15.4,Protein F59A2.1a ,YES
-Q21032,WBGene00010317,F59B8.2,F59B8.2,1,2.8,0.9,4.2,Protein F59B8.2 ,YES
+Q21032,WBGene00010317,F59B8.2,F59B8.2,1,2.8,0.9,4.2,Protein F59B8.2 ,NO
 O45599,WBGene00010351,H02I12.1,H02I12.1,2.2,2.8,2.4,4.8,Protein H02I12.1 ,YES
 O17908,WBGene00003964,pdi-3,H06O01.1,2.3,8.4,1.9,12,Protein H06O01.1 ,YES
-O45622,WBGene00010405,H19N07.1,H19N07.1,2.1,3.9,1.2,6.7,Protein H19N07.1 ,YES
+O45622,WBGene00010405,H19N07.1,H19N07.1,2.1,3.9,1.2,6.7,Protein H19N07.1 ,NO
 O62289,WBGene00010440,JC8.8,JC8.8,2.9,7,1.6,12.6,Protein JC8.8 ,YES
-O17921,WBGene00006536,tbb-1,K01G5.7,1.5,3.6,1.2,8.2,Protein K01G5.7 ,YES
-Q9XTB8,WBGene00010480,K01G5.9,K01G5.9,N/A,6.2,1.6,9.6,Protein K01G5.9 ,YES
+O17921,WBGene00006536,tbb-1,K01G5.7,1.5,3.6,1.2,8.2,Protein K01G5.7 ,NO
+Q9XTB8,WBGene00010480,K01G5.9,K01G5.9,N/A,6.2,1.6,9.6,Protein K01G5.9 ,NO
 O01934,WBGene00010609,dut-1,K07A1.2,2.6,6.9,2.5,22.9,Protein K07A1.2 ,YES
 C1P640,WBGene00001328,epi-1,K08C7.3,2.9,2.8,2,6.3,Protein K08C7.3c ,YES
 Q9XUT0,WBGene00010664,K08E3.4,K08E3.4,2,5,1.5,6,Protein K08E3.4 ,YES
 Q69Z13,WBGene00010665,K08E3.5,K08E3.5,2.2,4.4,1.7,6.3,Protein K08E3.5f ,YES
-Q9XUS9,WBGene00000875,cyk-4,K08E3.6,2.8,7.6,1.4,8,Protein K08E3.6 ,YES
+Q9XUS9,WBGene00000875,cyk-4,K08E3.6,2.8,7.6,1.4,8,Protein K08E3.6 ,NO
 Q21351,WBGene00010677,K08F4.2,K08F4.2,2.5,6.7,1.6,11.4,Protein K08F4.2 ,YES
-Q21359,WBGene00000975,dhs-12,K08F4.9,1.1,2.8,1.5,8,Protein K08F4.9 ,YES
-A7LPE6,WBGene00010778,gpdh-2,K11H3.1,1.5,5.2,1,9.8,Protein K11H3.1d ,YES
-P34466,WBGene00000550,clu-1,F55H2.6,N/A,2.4,1,5.7,Protein KIAA0664 homolog,YES
+Q21359,WBGene00000975,dhs-12,K08F4.9,1.1,2.8,1.5,8,Protein K08F4.9 ,NO
+A7LPE6,WBGene00010778,gpdh-2,K11H3.1,1.5,5.2,1,9.8,Protein K11H3.1d ,NO
+P34466,WBGene00000550,clu-1,F55H2.6,N/A,2.4,1,5.7,Protein KIAA0664 homolog,NO
 B5BM23,WBGene00002066,ifg-1,M110.4,2.5,3.1,1.6,7.1,Protein M110.4c ,YES
-A5JYR4,WBGene00000894,dab-1,M110.5,1.6,3.3,1.1,6.5,Protein M110.5d ,YES
+A5JYR4,WBGene00000894,dab-1,M110.5,1.6,3.3,1.1,6.5,Protein M110.5d ,NO
 Q21605,WBGene00010908,M88.5,M88.5,3,3.1,2.2,12.2,Protein M88.5a ,YES
 Q21763,WBGene00011038,R05H5.3,R05H5.3,3.1,13.3,2,19.9,Protein R05H5.3 ,YES
 Q09603,WBGene00001153,ech-4,R06F6.9,1.6,2.8,2.7,10.7,Protein R06F6.9 ,YES
 Q93934,WBGene00011128,R07H5.8,R07H5.8,3.6,4.3,3.3,6.9,Protein R07H5.8 ,YES
-O45713,WBGene00011156,R09B3.3,R09B3.3,7.1,7.1,1.1,23.3,Protein R09B3.3 ,YES
-O02286,WBGene00011232,R11A5.4,R11A5.4,1.4,3,0.9,4.4,Protein R11A5.4a ,YES
-O18000,WBGene00003982,pes-9,R11H6.1,0.9,3.7,1,9.9,Protein R11H6.1 ,YES
+O45713,WBGene00011156,R09B3.3,R09B3.3,7.1,7.1,1.1,23.3,Protein R09B3.3 ,NO
+O02286,WBGene00011232,R11A5.4,R11A5.4,1.4,3,0.9,4.4,Protein R11A5.4a ,NO
+O18000,WBGene00003982,pes-9,R11H6.1,0.9,3.7,1,9.9,Protein R11H6.1 ,NO
 Q21966,WBGene00000217,asp-4,R12H7.2,2.1,4.2,2.7,8,Protein R12H7.2 ,YES
 A5Z2W3,WBGene00014826,R13H4.2,R13H4.2,1.7,2,1.5,3.7,Protein R13H4.2a ,YES
 O02425,WBGene00004855,sma-1,R31.1,4.4,3.4,3.1,4.9,Protein R31.1a ,YES
-Q22020,WBGene00011274,R53.5,R53.5,2.7,4.8,1.3,10.1,Protein R53.5 ,YES
-O45734,WBGene00000776,cpl-1,T03E6.7,1.2,4.3,1.1,7.8,Protein T03E6.7 ,YES
+Q22020,WBGene00011274,R53.5,R53.5,2.7,4.8,1.3,10.1,Protein R53.5 ,NO
+O45734,WBGene00000776,cpl-1,T03E6.7,1.2,4.3,1.1,7.8,Protein T03E6.7 ,NO
 Q22235,WBGene00011480,T05E11.3,T05E11.3,2.4,8.6,1.9,11.9,Protein T05E11.3 ,YES
 Q22248,WBGene00011522,T06D8.1,T06D8.1,2.6,3.5,2,6.4,Protein T06D8.1a ,YES
 Q22290,WBGene00011560,T07C4.3,T07C4.3,3.6,7.1,2.9,29.7,Protein T07C4.3a ,YES
 Q8T3D2,WBGene00011629,T08G11.1,T08G11.1,2.2,6.8,2.4,6.9,Protein T08G11.1b ,YES
-Q22370,WBGene00011679,ucr-2.2,T10B10.2,1.9,2.3,1.4,6.3,Protein T10B10.2 ,YES
+Q22370,WBGene00011679,ucr-2.2,T10B10.2,1.9,2.3,1.4,6.3,Protein T10B10.2 ,NO
 Q17878,WBGene00001132,alp-1,T11B7.4,1.7,2.1,2,3.8,Protein T11B7.4d ,YES
 O45786,WBGene00011735,T12D8.8,T12D8.8,3.2,5.9,2.1,12,Protein T12D8.8 ,YES
 B7WN95,WBGene00004446,rpl-32,T24B8.1,4.3,10.5,2.2,16.8,Protein T24B8.1b ,YES
-O45815,WBGene00000067,act-5,T25C8.2,2,1.7,1,3.8,Protein T25C8.2 ,YES
-Q22792,WBGene00012030,T25G3.3,T25G3.3,N/A,9.6,1.9,9.1,Protein T25G3.3 ,YES
+O45815,WBGene00000067,act-5,T25C8.2,2,1.7,1,3.8,Protein T25C8.2 ,NO
+Q22792,WBGene00012030,T25G3.3,T25G3.3,N/A,9.6,1.9,9.1,Protein T25G3.3 ,NO
 O45865,WBGene00006439,tag-61,T27E9.1,1.9,6.9,1.6,12.2,Protein T27E9.1a ,YES
-Q9XTD9,WBGene00012097,abcf-2,T27E9.7,2.9,3.4,1.1,6.7,Protein T27E9.7 ,YES
-O18154,WBGene00006533,tba-7,T28D6.2,1.4,2.5,1.1,4.9,Protein T28D6.2 ,YES
+Q9XTD9,WBGene00012097,abcf-2,T27E9.7,2.9,3.4,1.1,6.7,Protein T27E9.7 ,NO
+O18154,WBGene00006533,tba-7,T28D6.2,1.4,2.5,1.1,4.9,Protein T28D6.2 ,NO
 Q18685,WBGene00006836,unc-112,C47E8.7,1.9,1.8,1.6,5.3,Protein unc-112,YES
-P37806,WBGene00006819,unc-87,F08B6.4,2.1,1.6,1.2,4.2,Protein unc-87,YES
+P37806,WBGene00006819,unc-87,F08B6.4,2.1,1.6,1.2,4.2,Protein unc-87,NO
 Q9XXA2,WBGene00012156,ebp-2,VW02B12L.3,2.3,5.4,1.9,6.8,Protein VW02B12L.3 ,YES
 A8WHP8,WBGene00007024,mdt-28,W01A8.1,3,6.4,1.6,10.7,Protein W01A8.1c ,YES
 O62390,WBGene00012185,W01F3.2,W01F3.2,5.9,5.1,3.4,9.6,Protein W01F3.2 ,YES
 Q23146,WBGene00004271,rab-7,W03C9.3,4.9,4.7,3,14.8,Protein W03C9.3 ,YES
-Q23158,WBGene00000228,atn-1,W04D2.1,1.7,1.5,1.3,3.2,Protein W04D2.1a ,YES
-Q22275,WBGene00012326,W07E11.1,W07E11.1,3,3.7,0.8,26.5,Protein W07E11.1 ,YES
+Q23158,WBGene00000228,atn-1,W04D2.1,1.7,1.5,1.3,3.2,Protein W04D2.1a ,NO
+Q22275,WBGene00012326,W07E11.1,W07E11.1,3,3.7,0.8,26.5,Protein W07E11.1 ,NO
 Q9U329,WBGene00012354,W09C5.8,W09C5.8,1.7,4.1,1.5,4.3,Protein W09C5.8 ,YES
 O45904,WBGene00002264,lec-1,W09H1.6,3.3,3.7,2.3,9.1,Protein W09H1.6b ,YES
 Q8WQA8,WBGene00004489,rps-20,Y105E8A.16,1.7,6,1.9,10.2,Protein Y105E8A.16 ,YES
 Q9NEZ5,WBGene00006824,unc-95,Y105E8A.6,2.7,2.4,1.7,4.6,Protein Y105E8A.6 ,YES
-Q9U302,WBGene00003902,pab-1,Y106G6H.2,2.2,2.7,1,7.1,Protein Y106G6H.2a ,YES
+Q9U302,WBGene00003902,pab-1,Y106G6H.2,2.2,2.7,1,7.1,Protein Y106G6H.2a ,NO
 Q9XWS4,WBGene00004444,rpl-30,Y106G6H.3,2,8.6,1.6,13.6,Protein Y106G6H.3 ,YES
 Q9U2W6,WBGene00004203,psa-1,Y113G7B.23,4.7,4.8,2,10.5,Protein Y113G7B.23 ,YES
-Q9U2U0,WBGene00006698,uaf-2,Y116A8C.35,1.9,2.5,1,5,Protein Y116A8C.35 ,YES
+Q9U2U0,WBGene00006698,uaf-2,Y116A8C.35,1.9,2.5,1,5,Protein Y116A8C.35 ,NO
 Q9XXH7,WBGene00012468,Y17G7B.17,Y17G7B.17,3.6,3.2,3.9,6.3,Protein Y17G7B.17 ,YES
 Q9XXI9,WBGene00003154,mcm-2,Y17G7B.5,2.2,3.4,2.5,4.4,Protein Y17G7B.5a ,YES
-Q9XW20,WBGene00012481,Y18D10A.11,Y18D10A.11,2.3,7,1.3,14.7,Protein Y18D10A.11 ,YES
+Q9XW20,WBGene00012481,Y18D10A.11,Y18D10A.11,2.3,7,1.3,14.7,Protein Y18D10A.11 ,NO
 Q9XW17,WBGene00012484,car-1,Y18D10A.17,2.6,3.1,1.7,7.9,Protein Y18D10A.17 ,YES
 O62415,WBGene00003090,lys-1,Y22F5A.4,2.6,1.6,2.2,6.9,Protein Y22F5A.4 ,YES
 Q9XWU9,WBGene00012557,Y37D8A.19,Y37D8A.19,6.4,7.5,3.3,10.8,Protein Y37D8A.19 ,YES
 Q9XTJ6,WBGene00000475,cey-4,Y39A1C.3,2.1,4.5,1.6,12.3,Protein Y39A1C.3 ,YES
 Q9NES7,WBGene00012664,Y39B6A.1,Y39B6A.1,0.6,0.8,1,3.9,Protein Y39B6A.1 ,NO
-O45924,WBGene00012713,Y39E4A.3,Y39E4A.3,1.2,3.1,0.9,6.2,Protein Y39E4A.3a ,YES
-Q9NAI5,WBGene00012722,Y39G8B.1,Y39G8B.1,2.3,4.2,1.3,4.1,Protein Y39G8B.1a ,YES
-O45934,WBGene00012803,Y43F4B.5,Y43F4B.5,1.6,5.1,1.2,5.8,Protein Y43F4B.5a ,YES
+O45924,WBGene00012713,Y39E4A.3,Y39E4A.3,1.2,3.1,0.9,6.2,Protein Y39E4A.3a ,NO
+Q9NAI5,WBGene00012722,Y39G8B.1,Y39G8B.1,2.3,4.2,1.3,4.1,Protein Y39G8B.1a ,NO
+O45934,WBGene00012803,Y43F4B.5,Y43F4B.5,1.6,5.1,1.2,5.8,Protein Y43F4B.5a ,NO
 B7FAR9,WBGene00012812,Y43F8B.1,Y43F8B.1,5.7,4.1,3.3,3.8,Protein Y43F8B.1d ,YES
-Q9U2D6,WBGene00012901,Y46G5A.10,Y46G5A.10,2.1,2.9,1.4,7.4,Protein Y46G5A.10 ,YES
+Q9U2D6,WBGene00012901,Y46G5A.10,Y46G5A.10,2.1,2.9,1.4,7.4,Protein Y46G5A.10 ,NO
 B2FDA8,WBGene00004873,smc-3,Y47D3A.26,1.9,5,2.2,9.1,Protein Y47D3A.26b ,YES
 B7WNB3,WBGene00013008,Y48E1B.9,Y48E1B.9,24.4,4.9,6.9,10.6,Protein Y48E1B.9b ,YES
 Q9XTT9,WBGene00004506,rpt-6,Y49E10.1,2.7,6.1,2.1,10.3,Protein Y49E10.1 ,YES
-Q9XTU9,WBGene00013029,glrx-5,Y49E10.2,1.3,3.2,1.6,7.3,Protein Y49E10.2 ,YES
+Q9XTU9,WBGene00013029,glrx-5,Y49E10.2,1.3,3.2,1.6,7.3,Protein Y49E10.2 ,NO
 Q9XXR4,WBGene00013077,Y51A2D.9,Y51A2D.9,6.3,8.9,1.8,14.6,Protein Y51A2D.9 ,YES
 Q9XWH0,WBGene00013209,Y54G9A.6,Y54G9A.6,2.5,3.4,1.7,6.3,Protein Y54G9A.6 ,YES
-O02353,WBGene00013284,Y57A10C.6,Y57A10C.6,1.6,3.9,1.4,4.9,Protein Y57A10C.6 ,YES
+O02353,WBGene00013284,Y57A10C.6,Y57A10C.6,1.6,3.9,1.4,4.9,Protein Y57A10C.6 ,NO
 O18224,WBGene00013297,Y57G11B.5,Y57G11B.5,2.4,7,2.7,13.6,Protein Y57G11B.5 ,YES
 O18240,WBGene00004487,rps-18,Y57G11C.16,2.2,5.4,1.6,19.8,Protein Y57G11C.16 ,YES
 Q6IZD4,WBGene00001330,eps-8,Y57G11C.24,2.1,2.3,2.3,6.1,Protein Y57G11C.24h ,YES
 Q9GRZ9,WBGene00013340,Y59A8A.3,Y59A8A.3,2.8,5.1,1.9,11.1,Protein Y59A8A.3 ,YES
-Q9U1X9,WBGene00004410,rla-2,Y62E10A.1,1.5,5.4,1.3,12.1,Protein Y62E10A.1 ,YES
+Q9U1X9,WBGene00004410,rla-2,Y62E10A.1,1.5,5.4,1.3,12.1,Protein Y62E10A.1 ,NO
 Q9XWT5,WBGene00013391,Y62H9A.3,Y62H9A.3,2.5,4.1,1.6,6.2,Protein Y62H9A.3 ,YES
-Q9XWT4,WBGene00013392,Y62H9A.4,Y62H9A.4,2.5,3.2,0.9,7.2,Protein Y62H9A.4 ,YES
+Q9XWT4,WBGene00013392,Y62H9A.4,Y62H9A.4,2.5,3.2,0.9,7.2,Protein Y62H9A.4 ,NO
 Q9XWS6,WBGene00013393,Y62H9A.5,Y62H9A.5,2.6,3.6,2.6,7.4,Protein Y62H9A.5 ,YES
-Q9XWT3,WBGene00013394,Y62H9A.6,Y62H9A.6,2.5,4.5,1.1,9.1,Protein Y62H9A.6 ,YES
+Q9XWT3,WBGene00013394,Y62H9A.6,Y62H9A.6,2.5,4.5,1.1,9.1,Protein Y62H9A.6 ,NO
 C5VUK2,N/A,N/A,N/A,2.5,4.7,1.5,5.1,Protein Y67H2A.6b ,YES
-A8WI97,WBGene00013481,Y69H2.3,Y69H2.3,N/A,8.2,2.9,8.4,Protein Y69H2.3e ,YES
+A8WI97,WBGene00013481,Y69H2.3,Y69H2.3,N/A,8.2,2.9,8.4,Protein Y69H2.3e ,NO
 Q9XTG9,WBGene00004075,pod-1,Y76A2B.1,3.3,4.8,2.3,8.1,Protein Y76A2B.1 ,YES
 B6VQ97,WBGene00006787,unc-52,ZC101.2,2.3,2.8,1.8,5.7,Protein ZC101.2d ,YES
 Q23258,WBGene00013867,ZC373.2,ZC373.2,4.8,13.7,2.7,19.4,Protein ZC373.2 ,YES
 Q23315,WBGene00001337,ers-2,ZC434.5,2.6,4.2,2.1,9,Protein ZC434.5 ,YES
 Q23385,WBGene00014207,ZK1058.9,ZK1058.9,3,3,2.9,6.6,Protein ZK1058.9 ,YES
-Q09648,WBGene00014233,ZK1128.7,ZK1128.7,3.7,4.2,1.3,9.4,Protein ZK1128.7 ,YES
+Q09648,WBGene00014233,ZK1128.7,ZK1128.7,3.7,4.2,1.3,9.4,Protein ZK1128.7 ,NO
 Q7K7B6,WBGene00006876,vab-10,ZK1151.1,2,1.8,1.9,5.1,Protein ZK1151.1b ,YES
 Q6EUT7,WBGene00006876,vab-10,ZK1151.1,2,1.8,1.9,5.2,Protein ZK1151.1g ,YES
 Q9XTP9,WBGene00014262,ZK1321.4,ZK1321.4,1.5,1.4,1.3,4.1,Protein ZK1321.4 ,NO
-Q23451,WBGene00013924,rad-23,ZK20.3,3.1,4.3,1,5.8,Protein ZK20.3 ,YES
+Q23451,WBGene00013924,rad-23,ZK20.3,3.1,4.3,1,5.8,Protein ZK20.3 ,NO
 O18673,WBGene00001488,frm-1,ZK270.2,4.8,6,2.9,6.7,Protein ZK270.2a ,YES
-Q23571,WBGene00014054,ZK669.4,ZK669.4,2,1.9,1.2,6.5,Protein ZK669.4 ,YES
-Q23621,WBGene00014095,ZK829.4,ZK829.4,2,4.3,1.4,8.5,Protein ZK829.4 ,YES
-Q8IU00,WBGene00022257,puf-11,Y73B6BL.38,4.3,2.4,1.1,5.8,Puf (Pumilio/fbf) domain-containing protein 11 ,YES
+Q23571,WBGene00014054,ZK669.4,ZK669.4,2,1.9,1.2,6.5,Protein ZK669.4 ,NO
+Q23621,WBGene00014095,ZK829.4,ZK829.4,2,4.3,1.4,8.5,Protein ZK829.4 ,NO
+Q8IU00,WBGene00022257,puf-11,Y73B6BL.38,4.3,2.4,1.1,5.8,Puf (Pumilio/fbf) domain-containing protein 11 ,NO
 Q94230,WBGene00004046,plp-1,F45E4.2,2.6,5.6,2.3,10.6,Pur alpha like protein protein 1,YES
 P91917,WBGene00012344,tag-210,W08E3.3,1.7,4,1.5,5.9,Putative GTP-binding protein tag-210,YES
 Q9NG00,N/A,N/A,N/A,2,2.5,1.7,4.9,Putative integrin-linked kinase,YES
@@ -578,49 +578,49 @@ Q18805,WBGene00016893,C53B7.2,C53B7.2,6.5,8.3,3.5,7.6,Putative uncharacterized p
 Q27GT6,WBGene00044773,C08A9.10,C08A9.10,8.1,12.8,2.3,13.4,Putative uncharacterized protein,YES
 Q94162,WBGene00015683,C10G8.4,C10G8.4,10.4,7.5,6.8,22.6,Putative uncharacterized protein,YES
 Q9N5S7,WBGene00018656,F49H12.5,F49H12.5,0.6,0.7,1,2.4,Putative uncharacterized protein,NO
-Q9TXU7,WBGene00019162,H06H21.3,H06H21.3,1.2,4.8,1,5.5,Putative uncharacterized protein,YES
-O45011,WBGene00021128,W10C8.5,W10C8.5,1.2,1.9,1,4.5,Putative uncharacterized protein,YES
-Q9GZH4,WBGene00020683,T22D1.4,T22D1.4,1.3,4.5,1.4,14.4,Putative uncharacterized protein,YES
-Q17543,WBGene00015278,C01B10.3,C01B10.3,1.3,2.4,1,2.8,Putative uncharacterized protein,YES
-Q8ITW0,WBGene00015344,C02E11.1,C02E11.1,1.4,6.5,1.9,16.7,Putative uncharacterized protein,YES
-Q9N4H7,WBGene00022119,Y71F9AL.17,Y71F9AL.17,1.4,3.9,1.4,9.2,Putative uncharacterized protein,YES
+Q9TXU7,WBGene00019162,H06H21.3,H06H21.3,1.2,4.8,1,5.5,Putative uncharacterized protein,NO
+O45011,WBGene00021128,W10C8.5,W10C8.5,1.2,1.9,1,4.5,Putative uncharacterized protein,NO
+Q9GZH4,WBGene00020683,T22D1.4,T22D1.4,1.3,4.5,1.4,14.4,Putative uncharacterized protein,NO
+Q17543,WBGene00015278,C01B10.3,C01B10.3,1.3,2.4,1,2.8,Putative uncharacterized protein,NO
+Q8ITW0,WBGene00015344,C02E11.1,C02E11.1,1.4,6.5,1.9,16.7,Putative uncharacterized protein,NO
+Q9N4H7,WBGene00022119,Y71F9AL.17,Y71F9AL.17,1.4,3.9,1.4,9.2,Putative uncharacterized protein,NO
 Q22993,WBGene00018811,pmt-2,F54D11.1,1.4,1.4,1,3,Putative uncharacterized protein,NO
-Q18036,WBGene00015810,C16A3.5,C16A3.5,1.4,4.2,1.4,9,Putative uncharacterized protein,YES
-Q23487,WBGene00022738,ZK418.9,ZK418.9,1.4,3.2,2,5.9,Putative uncharacterized protein,YES
-Q21742,WBGene00019890,R05F9.6,R05F9.6,1.5,2.6,0.9,6.5,Putative uncharacterized protein,YES
-Q21233,WBGene00019401,nuo-4,K04G7.4,1.5,3.4,1.3,5.6,Putative uncharacterized protein,YES
+Q18036,WBGene00015810,C16A3.5,C16A3.5,1.4,4.2,1.4,9,Putative uncharacterized protein,NO
+Q23487,WBGene00022738,ZK418.9,ZK418.9,1.4,3.2,2,5.9,Putative uncharacterized protein,NO
+Q21742,WBGene00019890,R05F9.6,R05F9.6,1.5,2.6,0.9,6.5,Putative uncharacterized protein,NO
+Q21233,WBGene00019401,nuo-4,K04G7.4,1.5,3.4,1.3,5.6,Putative uncharacterized protein,NO
 Q20486,WBGene00018522,F46H5.7,F46H5.7,1.5,1.4,1.2,5.1,Putative uncharacterized protein,NO
-Q966J6,WBGene00018257,F41B4.1,F41B4.1,1.5,2.6,1.4,5.6,Putative uncharacterized protein,YES
-C7IVR9,N/A,N/A,N/A,1.6,1.9,1.1,5.3,Putative uncharacterized protein,YES
-Q4W5R4,WBGene00022184,Y71H2AM.19,Y71H2AM.19,1.8,2.3,1.1,5,Putative uncharacterized protein,YES
-Q65XX4,WBGene00021641,Y47G6A.15,Y47G6A.15,1.8,1.7,1.1,9.2,Putative uncharacterized protein,YES
-Q95XN1,WBGene00022150,Y71G12B.10,Y71G12B.10,2.2,3.6,1.1,12.3,Putative uncharacterized protein,YES
-Q21243,WBGene00019406,K05F1.3,K05F1.3,2.2,5.4,1.1,11.3,Putative uncharacterized protein,YES
-P91020,WBGene00015565,C07D8.6,C07D8.6,2.2,6,1.3,11.3,Putative uncharacterized protein,YES
-O44549,WBGene00019433,K06A5.6,K06A5.6,2.2,4.9,1.1,7,Putative uncharacterized protein,YES
-O01602,WBGene00020417,nuo-2,T10E9.7,2.5,2.2,1.1,5,Putative uncharacterized protein,YES
-Q23604,WBGene00022822,ZK813.3,ZK813.3,2.5,5.2,0.8,6.1,Putative uncharacterized protein,YES
-Q95XR0,WBGene00021466,Y39G10AR.8,Y39G10AR.8,2.6,3.8,1.1,9.5,Putative uncharacterized protein,YES
-Q9N362,WBGene00021930,Y55F3AM.13,Y55F3AM.13,2.7,4,N/A,13.8,Putative uncharacterized protein,YES
-O61880,WBGene00019097,F59B1.2,F59B1.2,2.7,2.7,1,3.2,Putative uncharacterized protein,YES
-Q23044,WBGene00020674,T22B7.7,T22B7.7,2.7,1.4,1.3,8.1,Putative uncharacterized protein,YES
-O45148,WBGene00020950,W02F12.5,W02F12.5,3,4.1,1.4,7.9,Putative uncharacterized protein,YES
-Q9TXI4,WBGene00017734,F23C8.5,F23C8.5,3.1,6.4,1.4,15.3,Putative uncharacterized protein,YES
-O45181,WBGene00019510,K07H8.10,K07H8.10,3.9,5.7,1.2,9.7,Putative uncharacterized protein,YES
-Q95QL4,WBGene00017361,F10E9.12,F10E9.12,N/A,20.5,N/A,6.4,Putative uncharacterized protein,YES
-Q7JP80,WBGene00020481,T13C2.6,T13C2.6,N/A,5.5,2.8,14.7,Putative uncharacterized protein,YES
-Q9GYI1,WBGene00017925,F29B9.11,F29B9.11,N/A,9.8,2.3,10.7,Putative uncharacterized protein,YES
+Q966J6,WBGene00018257,F41B4.1,F41B4.1,1.5,2.6,1.4,5.6,Putative uncharacterized protein,NO
+C7IVR9,N/A,N/A,N/A,1.6,1.9,1.1,5.3,Putative uncharacterized protein,NO
+Q4W5R4,WBGene00022184,Y71H2AM.19,Y71H2AM.19,1.8,2.3,1.1,5,Putative uncharacterized protein,NO
+Q65XX4,WBGene00021641,Y47G6A.15,Y47G6A.15,1.8,1.7,1.1,9.2,Putative uncharacterized protein,NO
+Q95XN1,WBGene00022150,Y71G12B.10,Y71G12B.10,2.2,3.6,1.1,12.3,Putative uncharacterized protein,NO
+Q21243,WBGene00019406,K05F1.3,K05F1.3,2.2,5.4,1.1,11.3,Putative uncharacterized protein,NO
+P91020,WBGene00015565,C07D8.6,C07D8.6,2.2,6,1.3,11.3,Putative uncharacterized protein,NO
+O44549,WBGene00019433,K06A5.6,K06A5.6,2.2,4.9,1.1,7,Putative uncharacterized protein,NO
+O01602,WBGene00020417,nuo-2,T10E9.7,2.5,2.2,1.1,5,Putative uncharacterized protein,NO
+Q23604,WBGene00022822,ZK813.3,ZK813.3,2.5,5.2,0.8,6.1,Putative uncharacterized protein,NO
+Q95XR0,WBGene00021466,Y39G10AR.8,Y39G10AR.8,2.6,3.8,1.1,9.5,Putative uncharacterized protein,NO
+Q9N362,WBGene00021930,Y55F3AM.13,Y55F3AM.13,2.7,4,N/A,13.8,Putative uncharacterized protein,NO
+O61880,WBGene00019097,F59B1.2,F59B1.2,2.7,2.7,1,3.2,Putative uncharacterized protein,NO
+Q23044,WBGene00020674,T22B7.7,T22B7.7,2.7,1.4,1.3,8.1,Putative uncharacterized protein,NO
+O45148,WBGene00020950,W02F12.5,W02F12.5,3,4.1,1.4,7.9,Putative uncharacterized protein,NO
+Q9TXI4,WBGene00017734,F23C8.5,F23C8.5,3.1,6.4,1.4,15.3,Putative uncharacterized protein,NO
+O45181,WBGene00019510,K07H8.10,K07H8.10,3.9,5.7,1.2,9.7,Putative uncharacterized protein,NO
+Q95QL4,WBGene00017361,F10E9.12,F10E9.12,N/A,20.5,N/A,6.4,Putative uncharacterized protein,NO
+Q7JP80,WBGene00020481,T13C2.6,T13C2.6,N/A,5.5,2.8,14.7,Putative uncharacterized protein,NO
+Q9GYI1,WBGene00017925,F29B9.11,F29B9.11,N/A,9.8,2.3,10.7,Putative uncharacterized protein,NO
 Q09486,WBGene00016274,C30G12.2,C30G12.2,1.5,0.4,0.8,N/A,Putative uncharacterized protein C30G12.2,NO
 O44954,WBGene00016392,sdha-2,C34B2.7,1.6,3.3,1.7,6.1,Putative uncharacterized protein C34B2.7,YES
 Q2Q3C7,N/A,N/A,N/A,2,7.7,2.9,13.9,Putative uncharacterized protein D1005.1 (Fragment),YES
 O02158,WBGene00020382,T09B4.8,T09B4.8,1.5,1.2,0.9,3,Putative uncharacterized protein T09B4.8,NO
 Q9TZS5,WBGene00020391,T10B5.5,T10B5.5,1.7,5.6,1.7,9,Putative uncharacterized protein T10B5.5,YES
 Q23050,WBGene00020808,T25F10.6,T25F10.6,1.9,1.8,1.9,4.6,Putative uncharacterized protein T25F10.6,YES
-Q8ITY2,WBGene00021043,W05G11.6,W05G11.6,1.3,2.1,1.1,4.8,Putative uncharacterized protein W05G11.6,YES
-O44906,WBGene00021043,W05G11.6,W05G11.6,1.4,2,1.2,5.3,Putative uncharacterized protein W05G11.6,YES
-Q8ITY0,WBGene00021043,W05G11.6,W05G11.6,1.6,1.9,1.2,5.3,Putative uncharacterized protein W05G11.6,YES
+Q8ITY2,WBGene00021043,W05G11.6,W05G11.6,1.3,2.1,1.1,4.8,Putative uncharacterized protein W05G11.6,NO
+O44906,WBGene00021043,W05G11.6,W05G11.6,1.4,2,1.2,5.3,Putative uncharacterized protein W05G11.6,NO
+Q8ITY0,WBGene00021043,W05G11.6,W05G11.6,1.6,1.9,1.2,5.3,Putative uncharacterized protein W05G11.6,NO
 Q23179,WBGene00021048,W05H9.1,W05H9.1,10.4,9.7,3.8,11,Putative uncharacterized protein W05H9.1,YES
-O17732,WBGene00004258,pyc-1,D2023.2,1.8,2.8,1.1,6,Pyruvate carboxylase 1,YES
+O17732,WBGene00004258,pyc-1,D2023.2,1.8,2.8,1.1,6,Pyruvate carboxylase 1,NO
 O44451,WBGene00015413,C04C3.3,C04C3.3,2.4,3.7,1.6,7.9,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",YES
 B7WNA0,WBGene00009126,F25H5.3,F25H5.3,1.7,3.5,1.6,5.8,Pyruvate kinase,YES
 Q22038,WBGene00004357,rho-1,Y51H4A.3,3.8,6.3,3,23.3,Ras-like GTP-binding protein rhoA,YES
@@ -629,15 +629,15 @@ O44191,WBGene00004374,rme-2,T11F8.3,3.7,5.3,3.3,11.6,Receptor mediated endocytos
 Q18211,WBGene00004304,ran-3,C26D10.1,2,6.3,2,5.8,Regulator of chromosome condensation,YES
 Q03604,WBGene00004391,rnr-1,T23G5.1,2.4,4.6,1.9,9.4,Ribonucleoside-diphosphate reductase large subunit,YES
 O01869,WBGene00004479,rps-10,D1007.6,1.9,7.7,1.9,12.7,"Ribosomal protein, small subunit protein 10",YES
-O17218,WBGene00004491,rps-22,F53A3.3,1.4,4.3,1.2,10.9,"Ribosomal protein, small subunit protein 22, isoform a ",YES
+O17218,WBGene00004491,rps-22,F53A3.3,1.4,4.3,1.2,10.9,"Ribosomal protein, small subunit protein 22, isoform a ",NO
 Q1XFY9,WBGene00004493,rps-24,T07A9.11,2,4.5,1.6,8,"Ribosomal protein, small subunit protein 24",YES
 Q27462,N/A,N/A,N/A,2.6,9.3,1.6,12.8,Rotamase,YES
 Q22053,WBGene00001423,fib-1,T01C3.7,2.2,2.9,1.9,7.3,rRNA 2'-O-methyltransferase fibrillarin,YES
-Q86NI4,WBGene00015540,C06E7.3,C06E7.3,1.5,2.6,1,6.2,S-adenosylmethionine synthetase,YES
-P50432,WBGene00003214,mel-32,C05D11.11,1.3,2.6,1,6.3,Serine hydroxymethyltransferase,YES
+Q86NI4,WBGene00015540,C06E7.3,C06E7.3,1.5,2.6,1,6.2,S-adenosylmethionine synthetase,NO
+P50432,WBGene00003214,mel-32,C05D11.11,1.3,2.6,1,6.3,Serine hydroxymethyltransferase,NO
 Q27498,WBGene00002363,let-92,F38H4.9,1.6,5.5,1.7,9.2,Serine/threonine protein phosphatase,YES
-P34331,WBGene00004042,plk-1,C14B9.4,N/A,2.1,2.1,5.7,Serine/threonine-protein kinase plk-1,YES
-Q03563,WBGene00004980,spk-1,B0464.5,N/A,7.1,1.3,12.9,Serine/threonine-protein kinase spk-1,YES
+P34331,WBGene00004042,plk-1,C14B9.4,N/A,2.1,2.1,5.7,Serine/threonine-protein kinase plk-1,NO
+Q03563,WBGene00004980,spk-1,B0464.5,N/A,7.1,1.3,12.9,Serine/threonine-protein kinase spk-1,NO
 Q21746,WBGene00019893,sgt-1,R05F9.10,3.4,7.2,1.9,10.7,Small glutamine-rich tetratrico repeat protein protein 1,YES
 Q21408,WBGene00004951,spc-1,K10B3.10,4.4,4.1,2.7,9.1,Spectrin protein 1,YES
 P91349,WBGene00004955,spd-5,F56A3.4,3.1,5.2,2.1,7.9,Spindle-defective protein 5,YES
@@ -647,7 +647,7 @@ Q17322,N/A,N/A,N/A,3.7,4.5,1.9,9.7,STE12 transcriptional activator,YES
 A7LPC8,WBGene00006063,sto-1,F08C6.4,3.5,4.2,2.5,8.1,"Stomatin protein 1, isoform b",YES
 Q20363,WBGene00004798,sip-1,F43D9.4,4.6,6.2,2.1,13.9,Stress-induced protein 1,YES
 Q09508,WBGene00015391,sdha-1,C03G5.1,1.7,3.4,1.5,5.5,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",YES
-Q09545,WBGene00006433,sdhb-1,F42A8.2,1.3,3.4,1.1,6,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",YES
+Q09545,WBGene00006433,sdhb-1,F42A8.2,1.3,3.4,1.1,6,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",NO
 Q95017,WBGene00006706,ubc-9,F29B9.6,6.4,8.7,2,11.4,SUMO-conjugating enzyme UBC9,YES
 P41988,WBGene00000377,cct-1,T05C12.7,2.6,6.5,1.9,8.9,T-complex protein 1 subunit alpha,YES
 P47207,WBGene00011889,T21B10.7,T21B10.7,2.8,6.3,2.1,9.4,T-complex protein 1 subunit beta,YES
@@ -659,41 +659,41 @@ Q95ZL4,WBGene00006508,tag-163,M01E11.7,1.7,1.5,2.2,3,"Temporarily assigned gene 
 Q22508,WBGene00006408,tag-18,T14G12.3,2,1.7,1.5,5.9,Temporarily assigned gene name protein 18,YES
 Q8MNT0,WBGene00017904,lim-8,F28F5.3,3.1,2.8,1.9,7.3,"Temporarily assigned gene name protein 204, isoform c",YES
 Q1XFY2,WBGene00018374,tag-343,F43B10.2,2.7,2.6,1.7,6.4,"Temporarily assigned gene name protein 343, isoform b",YES
-P52709,WBGene00006617,trs-1,C47D12.6,2,5,1.4,8,"Threonyl-tRNA synthetase, cytoplasmic",YES
+P52709,WBGene00006617,trs-1,C47D12.6,2,5,1.4,8,"Threonyl-tRNA synthetase, cytoplasmic",NO
 P54811,WBGene00007352,cdc-48.1,C06A1.1,2.8,6.9,1.9,10.8,Transitional endoplasmic reticulum ATPase homolog 1,YES
 P54812,WBGene00008053,cdc-48.2,C41C4.8,2.6,6.4,2,10.6,Transitional endoplasmic reticulum ATPase homolog 2,YES
 Q93573,WBGene00009122,tct-1,F25H2.11,2.6,7.2,1.8,8.7,Translationally-controlled tumor protein homolog,YES
 P34500,WBGene00010539,K03H1.4,K03H1.4,3.1,10.4,2.5,14.4,Transthyretin-like protein 2,YES
 Q22866,WBGene00002978,lev-11,Y105E8B.1,1.8,1.6,1.5,4.1,Tropomyosin isoforms a/b/d/f,YES
-Q27249,WBGene00002978,lev-11,Y105E8B.1,1.7,2.1,1.4,3.3,Tropomyosin isoforms c/e,YES
-P34690,WBGene00006529,tba-2,C47B2.3,1.6,3.8,1.2,7.7,Tubulin alpha-2 chain,YES
-P12456,WBGene00003171,mec-7,ZK154.3,1.4,2.7,1.2,7.5,Tubulin beta-1 chain,YES
+Q27249,WBGene00002978,lev-11,Y105E8B.1,1.7,2.1,1.4,3.3,Tropomyosin isoforms c/e,NO
+P34690,WBGene00006529,tba-2,C47B2.3,1.6,3.8,1.2,7.7,Tubulin alpha-2 chain,NO
+P12456,WBGene00003171,mec-7,ZK154.3,1.4,2.7,1.2,7.5,Tubulin beta-1 chain,NO
 P52275,WBGene00006537,tbb-2,C36E8.5,1.4,3.4,1.1,8,Tubulin beta-2 chain,YES
 Q19328,WBGene00006626,tsn-1,F10G7.2,2.7,4.8,1.8,8.7,Tudor staphylococcal nuclease homolog protein 1,YES
-O01497,WBGene00016419,tyr-4,C34G6.2,2,1.2,1.1,4.1,Tyrosinase protein 4,YES
-O44512,WBGene00002162,isp-1,F42G8.12,1.3,3.7,0.9,6.8,Ubiquinol-cytochrome c reductase iron-sulfur subunit,YES
+O01497,WBGene00016419,tyr-4,C34G6.2,2,1.2,1.1,4.1,Tyrosinase protein 4,NO
+O44512,WBGene00002162,isp-1,F42G8.12,1.3,3.7,0.9,6.8,Ubiquinol-cytochrome c reductase iron-sulfur subunit,NO
 P14792,WBGene00006727,ubq-1,F25B5.4,3.7,4.5,1.8,8.2,Ubiquitin,YES
 Q17361,WBGene00006856,usp-14,C13B4.2,3.5,4.2,1.5,9.5,Ubiquitin carboxyl-terminal hydrolase 14,YES
 Q21633,WBGene00006713,ubc-18,R01H2.6,2.4,7,2.6,23.4,Ubiquitin conjugating enzyme protein 18,YES
 C1P636,WBGene00006699,uba-1,C47E12.5,1.8,5.8,2,10.1,Ubiquitin-activating enzyme E1,YES
 Q09475,WBGene00016194,C28H8.3,C28H8.3,1.6,3.8,2,7.6,Uncharacterized helicase C28H8.3,YES
 Q21276,WBGene00010627,K07C5.4,K07C5.4,2.7,2.6,2.6,7,Uncharacterized NOP5 family protein K07C5.4,YES
-Q93761,WBGene00009973,F53C11.3,F53C11.3,1.4,3,1.1,5.5,Uncharacterized oxidoreductase F53C11.3,YES
+Q93761,WBGene00009973,F53C11.3,F53C11.3,1.4,3,1.1,5.5,Uncharacterized oxidoreductase F53C11.3,NO
 P90850,WBGene00009158,F26E4.3,F26E4.3,2.3,2.3,1.8,5.5,Uncharacterized peptidase C1-like protein F26E4.3,YES
 P98080,WBGene00018963,ucr-1,F56D2.1,2.8,4.1,1.7,5.5,Uncharacterized peptidase-like protein F56D2.1,YES
 P34255,WBGene00015125,B0303.3,B0303.3,2.4,3.5,1.6,7.4,Uncharacterized protein B0303.3,YES
 Q05036,WBGene00016250,C30C11.4,C30C11.4,3.1,7.3,1.8,10,Uncharacterized protein C30C11.4,YES
-P41847,WBGene00020604,T20B12.7,T20B12.7,1.9,4.4,1,8.1,Uncharacterized protein T20B12.7,YES
+P41847,WBGene00020604,T20B12.7,T20B12.7,1.9,4.4,1,8.1,Uncharacterized protein T20B12.7,NO
 Q23280,WBGene00022599,ZC395.10,ZC395.10,2.1,6.7,2,12.2,Uncharacterized protein ZC395.10,YES
 Q17489,WBGene00006780,unc-44,B0350.2,2,1.9,3.3,4.4,"Uncoordinated protein 44, isoform a",YES
-O76566,WBGene00006825,unc-96,F13C5.6,2.1,1.6,1.4,5.5,"Uncoordinated protein 96, isoform a",YES
+O76566,WBGene00006825,unc-96,F13C5.6,2.1,1.6,1.4,5.5,"Uncoordinated protein 96, isoform a",NO
 O62053,WBGene00007458,C08F11.11,C08F11.11,3,20.3,2.8,22.5,UPF0375 protein C08F11.11,YES
 O45941,WBGene00012878,Y45F10C.2,Y45F10C.2,3,4.4,1.6,8.3,UPF0375 protein Y45F10C.2,YES
 O45944,WBGene00012880,Y45F10C.4,Y45F10C.4,3.9,11.9,4.1,19,UPF0375 protein Y45F10C.4,YES
 Q86NF7,N/A,N/A,N/A,2,1.8,1.9,5.1,VAB-10B protein,YES
 Q95X44,WBGene00006917,vha-8,C17H12.14,1.9,4.3,2.2,10.7,Vacuolar h atpase protein 8,YES
 Q9U1Q4,WBGene00006936,vrs-2,Y87G2A.5,2.2,5.1,1.9,8.8,Valyl-tRNA synthetase,YES
-Q65XX1,WBGene00006888,vbh-1,Y54E10A.9,1.9,2.2,1.1,4.7,"Vasa-and belle-like helicase protein 1, isoform c",YES
+Q65XX1,WBGene00006888,vbh-1,Y54E10A.9,1.9,2.2,1.1,4.7,"Vasa-and belle-like helicase protein 1, isoform c",NO
 O16646,WBGene00006924,vig-1,F56D12.5,3.5,5.6,1.6,8.3,"Vig (Drosophila vasa intronic gene) ortholog protein 1, isoform a",YES
 P19826,WBGene00000942,deb-1,ZC477.9,2,2.1,1.7,4.3,Vinculin,YES
 A7LPD7,WBGene00006926,vit-2,C42D8.2,2.9,7.9,2.9,11.6,"Vitellogenin structural genes (Yolk protein genes) protein 2, isoform b",YES
@@ -706,7 +706,7 @@ P18948,WBGene00006930,vit-6,K07H8.6,3,8.3,2.9,12.8,Vitellogenin-6,YES
 Q9XW92,WBGene00013025,vha-13,Y49A3A.2,1.7,3.5,2,6.5,V-type proton ATPase catalytic subunit A,YES
 P91306,WBGene00000473,cey-2,F46F11.2,2.9,5.6,2.1,12.5,Y-box protein 2,YES
 P91398,WBGene00000474,cey-3,M01E11.5,3.1,5.1,1.7,11.5,Y-box protein 3,YES
-Q95XQ8,WBGene00003156,mcm-4,Y39G10AR.14,2.1,3.7,1.1,7,Yeast mcm (Licensing factor) related protein 4,YES
+Q95XQ8,WBGene00003156,mcm-4,Y39G10AR.14,2.1,3.7,1.1,7,Yeast mcm (Licensing factor) related protein 4,NO
 O16297,WBGene00003159,mcm-7,F32D1.10,2.6,2.8,2,5.1,Yeast mcm (Licensing factor) related protein 7,YES
-Q19203,WBGene00006827,unc-98,F08C6.7,2.1,1.2,1.6,4,Zinc finger protein unc-98,YES
+Q19203,WBGene00006827,unc-98,F08C6.7,2.1,1.2,1.6,4,Zinc finger protein unc-98,NO
 Q93243,WBGene00003553,nas-37,C17G1.6,2.5,4,3.2,9.5,Zinc metalloproteinase nas-37,YES
