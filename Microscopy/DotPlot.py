@@ -14,8 +14,6 @@ import pandas as pd
 import matplotlib as mpl
 
 mpl.rcParams['pdf.fonttype'] = 42
-sns.set(font_scale = 1)
-sns.set(style="white")
 
 
 def dot_plot(df, x, y, hue=None, ax=None, order=None):
@@ -29,39 +27,50 @@ def dot_plot(df, x, y, hue=None, ax=None, order=None):
         idx = labels.index(strain)
         for j, cond in enumerate(df[hue].unique()):
             adj = 2*w*(j-len(df[hue].unique())+2)
-            plt.hlines(df[(df[x] == strain)&(df[hue] == cond)][y].mean(), ticks[idx]-w+adj, ticks[idx]+w+adj, color='k')
-    ax.set(ylim=(0,1))
+            plt.hlines(df[(df[x] == strain)&(df[hue] == cond)][y].mean(), ticks[idx]-w+adj, ticks[idx]+w+adj)
+    ax.set(ylim=(0,0.5))
     return ax
 
     
-fname_data = '20200821_YC_TwoColor_CPQuant.csv'
-fpath_data = 'BrainFig'
+fname_data = '20230331_YC_TwoColor_CPQuant.csv'
+fpath_data = 'BrainPaper'
 
 df_data = pd.read_csv(os.path.join(fpath_data, fname_data))
 convert_dict = {'%wGFPpucta.per.GFPpositive': float, 
                 '%wGFPpuncta.per.cell': float} 
 df_data = df_data.astype(convert_dict) 
 
-#####  Section 1: main figure 
-fig1, ax1 = plt.subplots(1,1, figsize=(8,4))
-strain_order = ['YDJ5500', 'YDJ5501', 'YDJ6615', 'YDJ5530', 'YDJ5531', 'YDJ6616']
-df_fig1 = df_data[df_data['Strain'].isin(strain_order)]
-ax = dot_plot(df_fig1, x='Strain', y='%wGFPpucta.per.GFPpositive', hue = 'Condition', \
-              order=strain_order, ax=ax1)   
-fig1.savefig(os.path.join(fpath_data,'TwoColor_main1.pdf'))
+# #####  Section 1: main figure 
+# fig1, ax1 = plt.subplots(1,1, figsize=(7,4))
+# strain_order = ['YDJ5500', 'YDJ5501', 'YDJ6615', 'YDJ5530', 'YDJ5531', 'YDJ6616']
+# df_fig1 = df_data[df_data['Strain'].isin(strain_order)]
+# ax = dot_plot(df_fig1, x='Strain', y='%wGFPpucta.per.GFPpositive', hue = 'Condition', \
+#               order=strain_order, ax=ax1)   
+# plt.tight_layout()
+# fig1.savefig(os.path.join(fpath_data,'TwoColor_main1.pdf'))
 
-##### Section 2: sup figure (polyQ)
-fig2, ax2 = plt.subplots(1,1, figsize=(4,4))
-strain_order = ['YDJ6617', 'YDJ6618', 'YDJ6619']
-df_fig2 = df_data[df_data['Strain'].isin(strain_order)]
-ax2 = dot_plot(df_fig2, x='Strain', y='%wGFPpucta.per.GFPpositive', hue = 'Condition', \
-              order=strain_order, ax=ax2)   
-fig2.savefig(os.path.join(fpath_data,'TwoColor_main2.pdf'))
+# ##### Section 2: sup figure (polyQ)
+# fig2, ax2 = plt.subplots(1,1, figsize=(4,4))
+# strain_order = ['YDJ6617', 'YDJ6618', 'YDJ6619']
+# df_fig2 = df_data[df_data['Strain'].isin(strain_order)]
+# ax2 = dot_plot(df_fig2, x='Strain', y='%wGFPpucta.per.GFPpositive', hue = 'Condition', \
+#               order=strain_order, ax=ax2) 
+# plt.tight_layout()
+# fig2.savefig(os.path.join(fpath_data,'TwoColor_main2.pdf'))
 
-##### Section 2: sup figure (polyQ)
-fig3, ax3 = plt.subplots(1,1, figsize=(2,4))
-strain_order = ['YDJ5502']
-df_fig3 = df_data[df_data['Strain'].isin(strain_order)]
-ax3 = dot_plot(df_fig3, x='Strain', y='%wGFPpucta.per.GFPpositive', hue = 'Condition', \
-              order=strain_order, ax=ax3)   
-fig3.savefig(os.path.join(fpath_data,'TwoColor_main3.pdf'))
+# ##### Section 3: sup figure 
+# fig3, ax3 = plt.subplots(1,1, figsize=(2,4))
+# strain_order = ['YDJ5502']
+# df_fig3 = df_data[df_data['Strain'].isin(strain_order)]
+# ax3 = dot_plot(df_fig3, x='Strain', y='%wGFPpucta.per.GFPpositive', hue = 'Condition', \
+#               order=strain_order, ax=ax3)   
+# fig3.savefig(os.path.join(fpath_data,'TwoColor_main3.pdf'))
+
+##### Section 4: rebuttal fig
+fig4, ax4 = plt.subplots(1,1, figsize=(4,4))
+strain_order = ['YDJ5672', 'YDJ5674', 'YDJ5673']#, 'YDJ5675', 'YDJ5786']
+df_fig4 = df_data[df_data['Strain'].isin(strain_order)]
+ax4 = dot_plot(df_fig4, x='Strain', y='%wGFPpucta.per.GFPpositive', hue = 'Condition', \
+              order=strain_order, ax=ax4)
+plt.tight_layout()
+fig4.savefig(os.path.join(fpath_data,'TwoColor_rebuttal2.pdf'))
