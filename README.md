@@ -12,3 +12,5 @@ The MSResults folder contains summarized data files from our TMT-based multiplex
 The MSAnalyasis folder contains scripts used to analyze and visualize our mass spectrometry results as well as result files. All python scripts are compatible with Python 3.8.5 and Python 2.7.15. All r scripts are compatible with R 3.6.3.
 
 Please refer to README file within each folder for list of scripts and files and their brief summary. Each script also includes a header that provide more description. 
+
+[![DOI](https://zenodo.org/badge/328281013.svg)](https://zenodo.org/badge/latestdoi/328281013)
